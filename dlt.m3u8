@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" group-title="BDIX", T Sports
 http://pgplex.net:8080/BPL2024/index.m3u8
 #EXTM3U url-tvg=""
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" group-title="BDIX", T Sports
+http://103.109.56.116/live/skyfeed1005/index.m3u8
+#EXTM3U url-tvg=""
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="BPL" tvg-logo="" group-title="BDIX",BPL
 https://sports.yunyingtiandi.com/live/m32981314/playlist.m3u8
 #EXTM3U url-tvg=""
