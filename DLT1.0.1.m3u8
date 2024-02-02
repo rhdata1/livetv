@@ -1,0 +1,293 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" group-title="BDIX", T Sports
+http://pgplex.net:8080/BPL2024/index.m3u8
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="BPL" tvg-logo="" group-title="BDIX",BPL
+https://sports.yunyingtiandi.com/live/m32981314/playlist.m3u8
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="& flix HD [Multi Audio]" tvg-logo="https://i.postimg.cc/2SYDZPS3/flix_2.jpg" group-title="BDIX",& flix HD [Multi Audio]
+http://103.132.181.118:82/play/a00x
+#EXTINF:-1 tvg-chno="3" tvg-id="(no tvg-id)" tvg-name="& Pictures HD [Multi Audio]" tvg-logo="https://i.postimg.cc/s2c7zdvW/picture_2.jpg" group-title="BDIX",& Pictures HD [Multi Audio]
+http://103.132.181.118:82/play/a01b
+#EXTINF:-1 tvg-chno="6" tvg-id="(no tvg-id)" tvg-name="Akash Aath" tvg-logo="https://i.postimg.cc/jdzcL118/Akash-Aath-Logo.jpg" group-title="BDIX",Akash Aath
+https://cdn.retosprime.com/ayna.php?id=135&e=.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="(no tvg-id)" tvg-name="Anando TV" tvg-logo="https://i.postimg.cc/zXhfKc8M/Anandatvupdate.jpg" group-title="BDIX",Anando TV
+https://cdn.retosprime.com/ayna.php?id=33&e=.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="(no tvg-id)" tvg-name="Anjan" tvg-logo="https://i.postimg.cc/kGkwbPyg/download.jpg" group-title="BDIX",Anjan
+https://cdn.retosprime.com/ayna.php?id=143&e=.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="(no tvg-id)" tvg-name="Ary Digital HD" tvg-logo="https://i.postimg.cc/Vv1jR2M6/ARY-Digital-Logo-2.png" group-title="BDIX",Ary Digital HD
+https://cdn.retosprime.com/ayna.php?id=182&e=.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="(no tvg-id)" tvg-name="Ary News Asia" tvg-logo="https://i.postimg.cc/0j9YmkFc/image_18.jpg" group-title="BDIX",Ary News Asia
+https://cdn.retosprime.com/ayna.php?id=184&e=.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="(no tvg-id)" tvg-name="Ary Qtv" tvg-logo="https://i.postimg.cc/JhwLDtmz/ARY-Qtv-logo.png" group-title="BDIX",Ary Qtv
+https://cdn.retosprime.com/ayna.php?id=185&e=.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="(no tvg-id)" tvg-name="Ary Zindagi" tvg-logo="https://i.postimg.cc/hvPfr8d2/ARY-Zindagi.jpg" group-title="BDIX",Ary Zindagi
+https://cdn.retosprime.com/ayna.php?id=186&e=.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="(no tvg-id)" tvg-name="Asian TV" tvg-logo="https://i.postimg.cc/2jbY6Cg3/fxq0pV2.png" group-title="BDIX",Asian TV
+https://cdn.retosprime.com/ayna.php?id=24&e=.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="(no tvg-id)" tvg-name="ATN Bangla" tvg-logo="https://i.postimg.cc/Y0KXWYDF/5PsRkPd.png" group-title="BDIX",ATN Bangla
+https://cdn.retosprime.com/ayna.php?id=9&e=.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://i.postimg.cc/gJZR1XFM/Atnnews-2.jpg" group-title="BDIX",ATN News
+https://cdn.retosprime.com/ayna.php?id=14&e=.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="(no tvg-id)" tvg-name="B4U Hitz" tvg-logo="https://i.postimg.cc/6qQptdKj/B4Uhitz.png" group-title="BDIX",B4U Hitz
+https://cdn.retosprime.com/ayna.php?id=190&e=.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-id="(no tvg-id)" tvg-name="B4U Kadak" tvg-logo="https://i.postimg.cc/wBR2fmwS/FB-IMG-1557138989334.jpg" group-title="BDIX",B4U Kadak
+https://cdn.retosprime.com/ayna.php?id=149&e=.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-id="(no tvg-id)" tvg-name="B4U Movies" tvg-logo="https://i.postimg.cc/DwpxTXHF/image_9.jpg" group-title="BDIX",B4U Movies
+https://cdn.retosprime.com/ayna.php?id=187&e=.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-id="(no tvg-id)" tvg-name="B4U Music" tvg-logo="https://i.postimg.cc/xdZB2pVk/stZqDcA.png" group-title="BDIX",B4U Music
+https://cdn.retosprime.com/ayna.php?id=39&e=.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-id="(no tvg-id)" tvg-name="Baby TV" tvg-logo="https://i.postimg.cc/mkSS6zCv/image_9.png" group-title="BDIX",Baby TV
+https://cdn.retosprime.com/ayna.php?id=110&e=.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="(no tvg-id)" tvg-name="Bangla TV" tvg-logo="https://i.postimg.cc/59L5p15q/K43LsMQ.png" group-title="BDIX",Bangla TV
+https://cdn.retosprime.com/ayna.php?id=31&e=.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-id="(no tvg-id)" tvg-name="Banglavision HD" tvg-logo="https://i.postimg.cc/Fs4LFBd9/HX8SSDA.png" group-title="BDIX",Banglavision HD
+https://cdn.retosprime.com/ayna.php?id=5&e=.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="(no tvg-id)" tvg-name="BBC America" tvg-logo="https://i.postimg.cc/cC7Dy5y5/image_7.png" group-title="BDIX",BBC America
+https://cdn.retosprime.com/ayna.php?id=111&e=.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-id="(no tvg-id)" tvg-name="Beani Kids" tvg-logo="https://i.postimg.cc/7hpyCRdR/Beani-Kids.png" group-title="BDIX",Beani Kids
+https://cdn.retosprime.com/ayna.php?id=224&e=.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="(no tvg-id)" tvg-name="Best Action TV" tvg-logo="https://i.postimg.cc/L5z3FYtb/Best-Action.png" group-title="BDIX",Best Action TV
+https://cdn.retosprime.com/ayna.php?id=221&e=.m3u8
+#EXTINF:-1 tvg-chno="26" tvg-id="(no tvg-id)" tvg-name="BFlix Movies" tvg-logo="https://i.postimg.cc/5N1vk2P3/BFlix-Movies-2.jpg" group-title="BDIX",BFlix Movies
+https://cdn.retosprime.com/ayna.php?id=163&e=.m3u8
+#EXTINF:-1 tvg-chno="27" tvg-id="(no tvg-id)" tvg-name="Boishakhi TV" tvg-logo="https://i.postimg.cc/BnM8ZZH3/pTJSGtj.png" group-title="BDIX",Boishakhi TV
+https://cdn.retosprime.com/ayna.php?id=10&e=.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png" group-title="BDIX",BTV
+https://cdn.retosprime.com/ayna.php?id=1&e=.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-id="(no tvg-id)" tvg-name="BTV Chattogram" tvg-logo="https://i.postimg.cc/d3KgmRJn/Bangladesh-Television-Chittagong-Logo.png" group-title="BDIX",BTV Chattogram
+https://cdn.retosprime.com/ayna.php?id=4&e=.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="https://i.postimg.cc/PxdPbgjB/btv-world.jpg" group-title="BDIX",BTV World
+https://cdn.retosprime.com/ayna.php?id=2&e=.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png" group-title="BDIX",Cartoon Network
+https://cdn.retosprime.com/ayna.php?id=65&e=.m3u8
+#EXTINF:-1 tvg-chno="32" tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg-logo="https://i.postimg.cc/ZKTBxDRs/Channel9_2.jpg" group-title="BDIX",Channel 9
+https://cdn.retosprime.com/ayna.php?id=20&e=.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-id="(no tvg-id)" tvg-name="Channel I" tvg-logo="https://i.postimg.cc/fbjjbSgJ/p0I5dr0_2.png" group-title="BDIX",Channel I
+https://cdn.retosprime.com/ayna.php?id=6&e=.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="https://i.postimg.cc/4N2J9T1k/HVZHZGl.png" group-title="BDIX",Colors Bangla
+http://103.132.181.118:82/play/a008
+#EXTINF:-1 tvg-chno="35" tvg-id="(no tvg-id)" tvg-name="Colors Bangla HD" tvg-logo="https://i.postimg.cc/4N2J9T1k/HVZHZGl.png" group-title="BDIX",Colors Bangla HD
+https://cdn.retosprime.com/ayna.php?id=105&e=.m3u8
+#EXTINF:-1 tvg-chno="36" tvg-id="(no tvg-id)" tvg-name="Colors HD" tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png" group-title="BDIX",Colors HD
+http://103.132.181.118:82/play/a00g
+#EXTINF:-1 tvg-chno="37" tvg-id="(no tvg-id)" tvg-name="Colors HD" tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png" group-title="BDIX",Colors HD
+https://cdn.retosprime.com/ayna.php?id=106&e=.m3u8
+#EXTINF:-1 tvg-chno="38" tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="https://i.postimg.cc/1zzL8zK0/download.png" group-title="BDIX",Comedy Central
+https://bongohub.pw/bioscope.php?cc=comedy-central
+#EXTINF:-1 tvg-chno="39" tvg-id="(no tvg-id)" tvg-name="Dangal" tvg-logo="https://i.postimg.cc/DzKK1Rf8/dangal.jpg" group-title="BDIX",Dangal
+https://cdn.retosprime.com/ayna.php?id=165&e=.m3u8
+#EXTINF:-1 tvg-chno="40" tvg-id="(no tvg-id)" tvg-name="Dangal 2" tvg-logo="https://i.postimg.cc/g2xBMqgg/download.jpg" group-title="BDIX",Dangal 2
+https://cdn.retosprime.com/ayna.php?id=167&e=.m3u8
+#EXTINF:-1 tvg-chno="41" tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="https://i.postimg.cc/43dZL7vq/djAX8Rc.png" group-title="BDIX",DBC News
+https://cdn.retosprime.com/ayna.php?id=29&e=.m3u8
+#EXTINF:-1 tvg-chno="42" tvg-id="(no tvg-id)" tvg-name="Deepto TV" tvg-logo="https://i.postimg.cc/RhjVCpnJ/tPZKfLr.png" group-title="BDIX",Deepto TV
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+#EXTINF:-1 tvg-chno="43" tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://i.postimg.cc/7YFvyj2m/Deshtv.png" group-title="BDIX",Desh TV
+https://cdn.retosprime.com/ayna.php?id=12&e=.m3u8
+#EXTINF:-1 tvg-chno="44" tvg-id="(no tvg-id)" tvg-name="Dhamaal" tvg-logo="https://i.postimg.cc/QMsdjFT4/image_70.jpg" group-title="BDIX",Dhamaal
+https://cdn.retosprime.com/ayna.php?id=152&e=.m3u8
+#EXTINF:-1 tvg-chno="45" tvg-id="(no tvg-id)" tvg-name="Dhamaka Movies B4U" tvg-logo="https://i.postimg.cc/0N5VgCcV/1669629361-Dhamaka-Movies-logo.jpg" group-title="BDIX",Dhamaka Movies B4U
+https://cdn.retosprime.com/ayna.php?id=191&e=.m3u8
+#EXTINF:-1 tvg-chno="46" tvg-id="(no tvg-id)" tvg-name="Dhinchaak" tvg-logo="https://i.postimg.cc/440qzjBs/Dhinchaak.jpg" group-title="BDIX",Dhinchaak
+https://cdn.retosprime.com/ayna.php?id=153&e=.m3u8
+#EXTINF:-1 tvg-chno="47" tvg-id="(no tvg-id)" tvg-name="Dillagi TV" tvg-logo="https://i.postimg.cc/25w8yCdz/image_71.jpg" group-title="BDIX",Dillagi TV
+https://cdn.retosprime.com/ayna.php?id=137&e=.m3u8
+#EXTINF:-1 tvg-chno="48" tvg-id="(no tvg-id)" tvg-name="Discovery HD [Multi Audio]" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png" group-title="BDIX",Discovery HD [Multi Audio]
+http://103.132.181.118:82/play/a007
+#EXTINF:-1 tvg-chno="49" tvg-id="(no tvg-id)" tvg-name="Duronto TV" tvg-logo="https://i.postimg.cc/KvbmHQz2/PK9Gm5g.png" group-title="BDIX",Duronto TV
+https://cdn.retosprime.com/ayna.php?id=36&e=.m3u8
+#EXTINF:-1 tvg-chno="50" tvg-id="(no tvg-id)" tvg-name="E24" tvg-logo="https://i.postimg.cc/6pd1TJx7/220px-E24-TV-Channel.jpg" group-title="BDIX",E24
+https://cdn.retosprime.com/ayna.php?id=175&e=.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-id="(no tvg-id)" tvg-name="Ekattor TV" tvg-logo="https://i.postimg.cc/8c9Y58zZ/1200px-Ekattor-TV-logo-svg.png" group-title="BDIX",Ekattor TV
+https://cdn.retosprime.com/ayna.php?id=23&e=.m3u8
+#EXTINF:-1 tvg-chno="52" tvg-id="(no tvg-id)" tvg-name="Ekhon TV" tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" group-title="BDIX",Ekhon TV
+https://cdn.retosprime.com/ayna.php?id=40&e=.m3u8
+#EXTINF:-1 tvg-chno="53" tvg-id="(no tvg-id)" tvg-name="Ekushey TV" tvg-logo="https://i.postimg.cc/GtX0FcP0/kFqOMtx.png" group-title="BDIX",Ekushey TV
+https://cdn.retosprime.com/ayna.php?id=7&e=.m3u8
+#EXTINF:-1 tvg-chno="54" tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="https://i.postimg.cc/HnLJdVfD/image_42.jpg" group-title="BDIX",ESPN
+https://cdn.retosprime.com/ayna.php?id=114&e=.m3u8
+#EXTINF:-1 tvg-chno="55" tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="https://i.postimg.cc/3xZd4jY5/Jo7wzmn_2.png" group-title="BDIX",Gaan Bangla
+https://cdn.retosprime.com/ayna.php?id=22&e=.m3u8
+#EXTINF:-1 tvg-chno="56" tvg-id="(no tvg-id)" tvg-name="Gazi TV HD" tvg-logo="https://i.postimg.cc/GtH5RXyk/K7b1Bbz.png" group-title="BDIX",Gazi TV HD
+https://cdn.retosprime.com/ayna.php?id=19&e=.m3u8
+#EXTINF:-1 tvg-chno="57" tvg-id="(no tvg-id)" tvg-name="Gazi TV HD" tvg-logo="https://i.postimg.cc/GtH5RXyk/K7b1Bbz.png" group-title="BDIX",Gazi TV HD
+https://cdn.retosprime.com/ayna.php?id=18&e=.m3u8
+#EXTINF:-1 tvg-chno="58" tvg-id="(no tvg-id)" tvg-name="Global TV HD" tvg-logo="https://i.postimg.cc/4yvcQjGn/Logo-Global-Television.png" group-title="BDIX",Global TV HD
+https://cdn.retosprime.com/ayna.php?id=34&e=.m3u8
+#EXTINF:-1 tvg-chno="59" tvg-id="(no tvg-id)" tvg-name="Goldmines" tvg-logo="https://i.postimg.cc/NGVG5JXr/image_73.jpg" group-title="BDIX",Goldmines
+https://cdn.retosprime.com/ayna.php?id=154&e=.m3u8
+#EXTINF:-1 tvg-chno="60" tvg-id="(no tvg-id)" tvg-name="Goldmines Bollywood" tvg-logo="https://i.postimg.cc/QxT85QgY/image_74.jpg" group-title="BDIX",Goldmines Bollywood
+https://cdn.retosprime.com/ayna.php?id=155&e=.m3u8
+#EXTINF:-1 tvg-chno="61" tvg-id="(no tvg-id)" tvg-name="Goldmines Movies" tvg-logo="https://i.postimg.cc/qq9pSqrG/image_72.jpg" group-title="BDIX",Goldmines Movies
+https://cdn.retosprime.com/ayna.php?id=156&e=.m3u8
+#EXTINF:-1 tvg-chno="62" tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://i.postimg.cc/rmNW86sW/image_29.jpg" group-title="BDIX",HBO
+https://cdn.retosprime.com/ayna.php?id=69&e=.m3u8
+#EXTINF:-1 tvg-chno="63" tvg-id="(no tvg-id)" tvg-name="History TV 18" tvg-logo="https://i.postimg.cc/wMw3HMxt/History-tv18-hd.png" group-title="BDIX",History TV 18
+https://cdn.retosprime.com/ayna.php?id=44&e=.m3u8
+#EXTINF:-1 tvg-chno="64" tvg-id="(no tvg-id)" tvg-name="Investigation Discovery" tvg-logo="https://i.postimg.cc/52XpFXYk/download-8.jpg" group-title="BDIX",Investigation Discovery
+https://cdn.retosprime.com/ayna.php?id=56&e=.m3u8
+#EXTINF:-1 tvg-chno="65" tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="https://i.postimg.cc/W1Gyczj1/ds3aThu_2.jpg" group-title="BDIX",Jamuna TV
+https://cdn.retosprime.com/ayna.php?id=26&e=.m3u8
+#EXTINF:-1 tvg-chno="66" tvg-id="(no tvg-id)" tvg-name="Khushboo Bangla" tvg-logo="https://i.postimg.cc/mZcSBBgy/download-9.jpg" group-title="BDIX",Khushboo Bangla
+https://cdn.retosprime.com/ayna.php?id=157&e=.m3u8
+#EXTINF:-1 tvg-chno="67" tvg-id="(no tvg-id)" tvg-name="Kids Creation TV" tvg-logo="https://i.postimg.cc/nhG4bjw1/Kids-Creation-Logo-1.png" group-title="BDIX",Kids Creation TV
+https://vods1.aynaott.com/kidscreation_test/index.m3u8
+#EXTINF:-1 tvg-chno="68" tvg-id="(no tvg-id)" tvg-name="Maasranga HD" tvg-logo="https://i.postimg.cc/4N4yTMwD/0385Pju.jpg" group-title="BDIX",Maasranga HD
+https://cdn.retosprime.com/ayna.php?id=11&e=.m3u8
+#EXTINF:-1 tvg-chno="69" tvg-id="(no tvg-id)" tvg-name="Manoranjan Movies" tvg-logo="https://i.postimg.cc/WbVvfnsh/Manoranjan-Movies.png" group-title="BDIX",Manoranjan Movies
+https://cdn.retosprime.com/ayna.php?id=139&e=.m3u8
+#EXTINF:-1 tvg-chno="70" tvg-id="(no tvg-id)" tvg-name="Mastiii" tvg-logo="https://i.postimg.cc/4NBDYnq2/Mastiii-TV-logo_2.jpg" group-title="BDIX",Mastiii
+https://cdn.retosprime.com/ayna.php?id=123&e=.m3u8
+#EXTINF:-1 tvg-chno="71" tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="https://i.postimg.cc/wjHLrLmQ/sGNdnMT.png" group-title="BDIX",MTV
+https://cdn.retosprime.com/ayna.php?id=50&e=.m3u8
+#EXTINF:-1 tvg-chno="72" tvg-id="(no tvg-id)" tvg-name="Music India" tvg-logo="https://i.postimg.cc/Twn3jBVd/Music-India.png" group-title="BDIX",Music India
+https://cdn.retosprime.com/ayna.php?id=140&e=.m3u8
+#EXTINF:-1 tvg-chno="73" tvg-id="(no tvg-id)" tvg-name="MyTV HD" tvg-logo="https://i.postimg.cc/BQ8LjtBG/v-DXLu-LBXf6-J.png" group-title="BDIX",MyTV HD
+https://cdn.retosprime.com/ayna.php?id=13&e=.m3u8
+#EXTINF:-1 tvg-chno="74" tvg-id="(no tvg-id)" tvg-name="National Geographic HD [Multi Audio]" tvg-logo="https://i.postimg.cc/YS18msj2/national-geographic-hd.jpg" group-title="BDIX",National Geographic HD [Multi Audio]
+http://103.132.181.118:82/play/a006
+#EXTINF:-1 tvg-chno="75" tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://i.postimg.cc/7Y40dwCw/mn88b34.png" group-title="BDIX",News 24
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
+#EXTINF:-1 tvg-chno="76" tvg-id="(no tvg-id)" tvg-name="Nexus TV" tvg-logo="https://i.postimg.cc/wBmvBvML/Nexus-Television-Logo.png" group-title="BDIX",Nexus TV
+https://cdn.retosprime.com/ayna.php?id=32&e=.m3u8
+#EXTINF:-1 tvg-chno="77" tvg-id="(no tvg-id)" tvg-name="Nick Jr." tvg-logo="https://i.postimg.cc/QthmgJWQ/nick-jr-preview_2.png" group-title="BDIX",Nick Jr.
+https://cdn.retosprime.com/ayna.php?id=126&e=.m3u8
+#EXTINF:-1 tvg-chno="78" tvg-id="(no tvg-id)" tvg-name="NTV" tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png" group-title="BDIX",NTV
+https://cdn.retosprime.com/ayna.php?id=8&e=.m3u8
+#EXTINF:-1 tvg-chno="79" tvg-id="(no tvg-id)" tvg-name="PBS Kids" tvg-logo="https://i.postimg.cc/HLPTM007/download-14.jpg" group-title="BDIX",PBS Kids
+https://cdn.retosprime.com/ayna.php?id=66&e=.m3u8
+#EXTINF:-1 tvg-chno="80" tvg-id="(no tvg-id)" tvg-name="PTV Sports HD" tvg-logo="https://i.postimg.cc/wjN1qKbv/image_43.jpg" group-title="BDIX",PTV Sports HD
+https://cdn.retosprime.com/ayna.php?id=47&e=.m3u8
+#EXTINF:-1 tvg-chno="81" tvg-id="(no tvg-id)" tvg-name="R Plus Gold" tvg-logo="https://i.postimg.cc/JnYnZKQ8/je92bUHo.png" group-title="BDIX",R Plus Gold
+https://cdn.retosprime.com/ayna.php?id=145&e=.m3u8
+#EXTINF:-1 tvg-chno="82" tvg-id="(no tvg-id)" tvg-name="R Plus News" tvg-logo="https://i.postimg.cc/NjkVhZRB/RPLUS.jpg" group-title="BDIX",R Plus News
+https://cdn.retosprime.com/ayna.php?id=142&e=.m3u8
+#EXTINF:-1 tvg-chno="83" tvg-id="(no tvg-id)" tvg-name="RTV HD" tvg-logo="https://i.postimg.cc/DfN3wzzs/yi5p51T.png" group-title="BDIX",RTV HD
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
+#EXTINF:-1 tvg-chno="84" tvg-id="(no tvg-id)" tvg-name="Ruposhi Bangla TV" tvg-logo="https://i.postimg.cc/g0G5WL4T/Rupashi-Bangla-logo-with-slogan-2013.png" group-title="BDIX",Ruposhi Bangla TV
+https://cdn.retosprime.com/ayna.php?id=144&e=.m3u8
+#EXTINF:-1 tvg-chno="85" tvg-id="(no tvg-id)" tvg-name="Sangeet Bangla" tvg-logo="https://i.postimg.cc/PrWhyvnN/g9OTeXV.png" group-title="BDIX",Sangeet Bangla
+https://cdn.retosprime.com/ayna.php?id=38&e=.m3u8
+#EXTINF:-1 tvg-chno="86" tvg-id="(no tvg-id)" tvg-name="Sangsad TV" tvg-logo="https://i.postimg.cc/t4Xt3tf4/330px-Sangsad-Television-Emblem-svg.png" group-title="BDIX",Sangsad TV
+https://cdn.retosprime.com/ayna.php?id=3&e=.m3u8
+#EXTINF:-1 tvg-chno="87" tvg-id="(no tvg-id)" tvg-name="SATV" tvg-logo="https://i.postimg.cc/PfS61dd3/fraEjzm.png" group-title="BDIX",SATV
+https://cdn.retosprime.com/ayna.php?id=25&e=.m3u8
+#EXTINF:-1 tvg-chno="88" tvg-id="(no tvg-id)" tvg-name="Shemaroo TV" tvg-logo="https://i.postimg.cc/Rh3MgfkF/image_77.jpg" group-title="BDIX",Shemaroo TV
+https://cdn.retosprime.com/ayna.php?id=174&e=.m3u8
+#EXTINF:-1 tvg-chno="89" tvg-id="(no tvg-id)" tvg-name="Shemaroo Umang" tvg-logo="https://i.postimg.cc/CM9STZ8x/medium-16-9-1683532175.jpg" group-title="BDIX",Shemaroo Umang
+https://cdn.retosprime.com/ayna.php?id=180&e=.m3u8
+#EXTINF:-1 tvg-chno="90" tvg-id="(no tvg-id)" tvg-name="Somoy TV" tvg-logo="https://i.postimg.cc/YqfbV4jr/Z2QvpTn.png" group-title="BDIX",Somoy TV
+https://cdn.retosprime.com/ayna.php?id=17&e=.m3u8
+#EXTINF:-1 tvg-chno="91" tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/L6dv4SxY/A0-EWDDo-2.png" group-title="BDIX",Sony Aath
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1 tvg-chno="92" tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/L6dv4SxY/A0-EWDDo-2.png" group-title="BDIX",Sony Aath
+https://cdn.retosprime.com/ayna.php?id=86&e=.m3u8
+#EXTINF:-1 tvg-chno="93" tvg-id="(no tvg-id)" tvg-name="Sony BBC Earth" tvg-logo="https://i.postimg.cc/VkYLdrkK/z6YpAkF.png" group-title="BDIX",Sony BBC Earth
+https://cdn.retosprime.com/ayna.php?id=72&e=.m3u8
+#EXTINF:-1 tvg-chno="94" tvg-id="(no tvg-id)" tvg-name="Sony Max 2" tvg-logo="https://i.postimg.cc/pL20phnb/Sony-MAX2.png" group-title="BDIX",Sony Max 2
+https://cdn.retosprime.com/ayna.php?id=82&e=.m3u8
+#EXTINF:-1 tvg-chno="95" tvg-id="(no tvg-id)" tvg-name="Sony Max HD" tvg-logo="https://i.postimg.cc/QtPV3fWg/Sony-MAX-HD-WHITE.png" group-title="BDIX",Sony Max HD
+http://103.132.181.118:82/play/a00c
+#EXTINF:-1 tvg-chno="96" tvg-id="(no tvg-id)" tvg-name="Sony Max HD" tvg-logo="https://i.postimg.cc/QtPV3fWg/Sony-MAX-HD-WHITE.png" group-title="BDIX",Sony Max HD
+https://cdn.retosprime.com/ayna.php?id=71&e=.m3u8
+#EXTINF:-1 tvg-chno="97" tvg-id="(no tvg-id)" tvg-name="Sony Pal" tvg-logo="https://i.postimg.cc/5yVBTTBd/SONY-PAL.png" group-title="BDIX",Sony Pal
+https://cdn.retosprime.com/ayna.php?id=87&e=.m3u8
+#EXTINF:-1 tvg-chno="98" tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="https://i.postimg.cc/2SFqZdPm/PIX-HD-WHITE.png" group-title="BDIX",Sony Pix
+https://cdn.retosprime.com/ayna.php?id=89&e=.m3u8
+#EXTINF:-1 tvg-chno="99" tvg-id="(no tvg-id)" tvg-name="Sony Pix HD" tvg-logo="https://i.postimg.cc/2SFqZdPm/PIX-HD-WHITE.png" group-title="BDIX",Sony Pix HD
+https://cdn.retosprime.com/ayna.php?id=74&e=.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-id="(no tvg-id)" tvg-name="Sony Pix HD [Multi Audio]" tvg-logo="https://i.postimg.cc/nhL6NDzc/Sony-Pix-new.png" group-title="BDIX",Sony Pix HD [Multi Audio]
+http://103.132.181.118:82/play/a00y
+#EXTINF:-1 tvg-chno="101" tvg-id="(no tvg-id)" tvg-name="Sony Sab" tvg-logo="https://i.postimg.cc/fLkkpGkT/SONY-SAB-HD-WHITE.png" group-title="BDIX",Sony Sab
+https://cdn.retosprime.com/ayna.php?id=80&e=.m3u8
+#EXTINF:-1 tvg-chno="102" tvg-id="(no tvg-id)" tvg-name="Sony Sab HD" tvg-logo="https://i.postimg.cc/MTXb11zN/Sony-Sab-new.png" group-title="BDIX",Sony Sab HD
+https://cdn.retosprime.com/ayna.php?id=77&e=.m3u8
+#EXTINF:-1 tvg-chno="103" tvg-id="(no tvg-id)" tvg-name="Sony Ten 1" tvg-logo="https://i.postimg.cc/wvwFBbFW/SONY-Sports-Ten1-HD.png" group-title="BDIX",Sony Ten 1
+https://cdn.retosprime.com/ayna.php?id=84&e=.m3u8
+#EXTINF:-1 tvg-chno="104" tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/mZPhW8dK/SONY-Sports-Ten1-SD-Logo-CLR.png" group-title="BDIX",Sony Ten 1 HD
+https://cdn.retosprime.com/ayna.php?id=76&e=.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-id="(no tvg-id)" tvg-name="Sony Ten 2" tvg-logo="https://i.postimg.cc/PJhLBt19/SONY-Sports-Ten2-HD.png" group-title="BDIX",Sony Ten 2
+https://cdn.retosprime.com/ayna.php?id=88&e=.m3u8
+#EXTINF:-1 tvg-chno="106" tvg-id="(no tvg-id)" tvg-name="Sony Ten 2 HD" tvg-logo="https://i.postimg.cc/bvMcxHQ2/SONY-Sports-Ten2-SD-Logo-CLR.png" group-title="BDIX",Sony Ten 2 HD
+https://cdn.retosprime.com/ayna.php?id=92&e=.m3u8
+#EXTINF:-1 tvg-chno="107" tvg-id="(no tvg-id)" tvg-name="Sony Ten 3" tvg-logo="https://i.postimg.cc/rmRXMMFy/SONY-Sports-Ten3-HD.png" group-title="BDIX",Sony Ten 3
+https://cdn.retosprime.com/ayna.php?id=85&e=.m3u8
+#EXTINF:-1 tvg-chno="108" tvg-id="(no tvg-id)" tvg-name="Sony Ten 3 HD" tvg-logo="https://i.postimg.cc/c46RjRYJ/SONY-Sports-Ten3-SD-Logo-CLR.png" group-title="BDIX",Sony Ten 3 HD
+https://cdn.retosprime.com/ayna.php?id=79&e=.m3u8
+#EXTINF:-1 tvg-chno="109" tvg-id="(no tvg-id)" tvg-name="Sony Ten 5" tvg-logo="https://i.postimg.cc/sXvW8yQN/SONY-Sports-Ten5-HD-Logo-CLR.png" group-title="BDIX",Sony Ten 5
+https://cdn.retosprime.com/ayna.php?id=83&e=.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-id="(no tvg-id)" tvg-name="Sony Ten 5 HD" tvg-logo="https://i.postimg.cc/MTCMt6rh/Sony-Sports-Ten-5.png" group-title="BDIX",Sony Ten 5 HD
+https://cdn.retosprime.com/ayna.php?id=91&e=.m3u8
+#EXTINF:-1 tvg-chno="111" tvg-id="(no tvg-id)" tvg-name="Sony TV" tvg-logo="https://i.postimg.cc/yd9WqNjW/SET-LOGO-HD.png" group-title="BDIX",Sony TV
+https://cdn.retosprime.com/ayna.php?id=81&e=.m3u8
+#EXTINF:-1 tvg-chno="112" tvg-id="(no tvg-id)" tvg-name="Sony TV HD" tvg-logo="https://i.postimg.cc/yd9WqNjW/SET-LOGO-HD.png" group-title="BDIX",Sony TV HD
+http://103.132.181.118:82/play/a00h
+#EXTINF:-1 tvg-chno="113" tvg-id="(no tvg-id)" tvg-name="Sony TV HD" tvg-logo="https://i.postimg.cc/yNGS4tzp/Sony-TV-new.png" group-title="BDIX",Sony TV HD
+https://cdn.retosprime.com/ayna.php?id=73&e=.m3u8
+#EXTINF:-1 tvg-chno="114" tvg-id="(no tvg-id)" tvg-name="Sony Wah" tvg-logo="https://i.postimg.cc/xTFkbBXf/Sony-WAH.png" group-title="BDIX",Sony Wah
+https://bongohub.pw/bioscope.php?cc=sony-wah-live
+#EXTINF:-1 tvg-chno="115" tvg-id="(no tvg-id)" tvg-name="Sony Yay" tvg-logo="https://i.postimg.cc/DwxdYxpm/SONY-YAY.png" group-title="BDIX",Sony Yay
+https://cdn.retosprime.com/ayna.php?id=70&e=.m3u8
+#EXTINF:-1 tvg-chno="116" tvg-id="(no tvg-id)" tvg-name="Sports18 1 HD" tvg-logo="https://i.postimg.cc/6pKhxhYD/Sports18-1-HD_2.jpg" group-title="BDIX",Sports18 1 HD
+https://cdn.retosprime.com/ayna.php?id=45&e=.m3u8
+#EXTINF:-1 tvg-chno="117" tvg-id="(no tvg-id)" tvg-name="Star Gold HD" tvg-logo="https://i.postimg.cc/76dXfj0n/Star-Gold-HD-2011.png" group-title="BDIX",Star Gold HD
+http://103.132.181.118:82/play/a00j
+#EXTINF:-1 tvg-chno="118" tvg-id="(no tvg-id)" tvg-name="Star Gold Romance" tvg-logo="https://i.postimg.cc/x1V0n6KH/Star-Gold-Romance.png" group-title="BDIX",Star Gold Romance
+http://103.132.181.118:82/play/a00m
+#EXTINF:-1 tvg-chno="119" tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" group-title="BDIX",Star Jalsha HD
+http://103.132.181.118:82/play/a001
+#EXTINF:-1 tvg-chno="120" tvg-id="(no tvg-id)" tvg-name="Star Jalsha Movies HD" tvg-logo="https://i.postimg.cc/rmHJ4szR/CjIopW5.jpg" group-title="BDIX",Star Jalsha Movies HD
+http://103.132.181.118:82/play/a004
+#EXTINF:-1 tvg-chno="121" tvg-id="(no tvg-id)" tvg-name="Star Movies HD [Multi Audio]" tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg" group-title="BDIX",Star Movies HD [Multi Audio]
+http://103.132.181.118:82/play/a005
+#EXTINF:-1 tvg-chno="122" tvg-id="(no tvg-id)" tvg-name="Star Plus HD" tvg-logo="https://i.postimg.cc/RVCShL2Y/He7ebQT.jpg" group-title="BDIX",Star Plus HD
+http://103.132.181.118:82/play/a00e
+#EXTINF:-1 tvg-chno="123" tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD" tvg-logo="https://i.postimg.cc/VLZz37fN/ytL56ZP_2.jpg" group-title="BDIX",Star Sports 1 HD
+https://cdn.retosprime.com/ayna.php?id=42&e=.m3u8
+#EXTINF:-1 tvg-chno="124" tvg-id="(no tvg-id)" tvg-name="Star Sports 2 HD" tvg-logo="https://i.postimg.cc/7Y9J9fbN/Star-Sports2hd.jpg" group-title="BDIX",Star Sports 2 HD
+https://cdn.retosprime.com/ayna.php?id=43&e=.m3u8
+#EXTINF:-1 tvg-chno="125" tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.postimg.cc/gjR3fwRz/Starsportss1.jpg" group-title="BDIX",Star Sports Select 1 HD
+https://cdn.retosprime.com/ayna.php?id=48&e=.m3u8
+#EXTINF:-1 tvg-chno="126" tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.postimg.cc/Y2mN4PP5/Starsportss2.jpg" group-title="BDIX",Star Sports Select 2 HD
+https://cdn.retosprime.com/ayna.php?id=49&e=.m3u8
+#EXTINF:-1 tvg-chno="127" tvg-id="(no tvg-id)" tvg-name="T Sports HD" tvg-logo="https://i.postimg.cc/023FZ1wP/TBBDXLU.png" group-title="BDIX",T Sports HD
+http://103.141.2.37:25461/live/web/web/588.m3u8
+#EXTINF:-1 tvg-chno="128" tvg-id="(no tvg-id)" tvg-name="T Sports HD" tvg-logo="https://i.postimg.cc/023FZ1wP/TBBDXLU.png" group-title="BDIX",T Sports HD
+https://cdn.retosprime.com/ayna.php?id=28&e=.m3u8
+#EXTINF:-1 tvg-chno="129" tvg-id="(no tvg-id)" tvg-name="T Sports HD" tvg-logo="https://i.postimg.cc/023FZ1wP/TBBDXLU.png" group-title="BDIX",T Sports HD
+https://cdn.retosprime.com/ayna.php?id=27&e=.m3u8
+#EXTINF:-1 tvg-chno="130" tvg-id="(no tvg-id)" tvg-name="The Q TV" tvg-logo="https://i.postimg.cc/05mxGdw4/logo-for-website.png" group-title="BDIX",The Q TV
+https://cdn.retosprime.com/ayna.php?id=158&e=.m3u8
+#EXTINF:-1 tvg-chno="131" tvg-id="(no tvg-id)" tvg-name="TSN 1" tvg-logo="https://i.postimg.cc/QM9C62cs/TSN1-01.jpg" group-title="BDIX",TSN 1
+https://cdn.retosprime.com/ayna.php?id=115&e=.m3u8
+#EXTINF:-1 tvg-chno="132" tvg-id="(no tvg-id)" tvg-name="TSN 2" tvg-logo="https://i.postimg.cc/DzJZqwxM/tsn2.jpg" group-title="BDIX",TSN 2
+https://cdn.retosprime.com/ayna.php?id=116&e=.m3u8
+#EXTINF:-1 tvg-chno="133" tvg-id="(no tvg-id)" tvg-name="TSN 3" tvg-logo="https://i.postimg.cc/XqZjqY1n/tsn-3.png" group-title="BDIX",TSN 3
+https://cdn.retosprime.com/ayna.php?id=117&e=.m3u8
+#EXTINF:-1 tvg-chno="134" tvg-id="(no tvg-id)" tvg-name="YTV" tvg-logo="https://i.postimg.cc/266jnw27/3px-YTV-logo-svg.png" group-title="BDIX",YTV
+https://cdn.retosprime.com/ayna.php?id=209&e=.m3u8
+#EXTINF:-1 tvg-chno="135" tvg-id="(no tvg-id)" tvg-name="Zee Action" tvg-logo="https://i.postimg.cc/v83qjZB8/zee-action.png" group-title="BDIX",Zee Action
+https://cdn.retosprime.com/ayna.php?id=109&e=.m3u8
+#EXTINF:-1 tvg-chno="136" tvg-id="(no tvg-id)" tvg-name="ZEE Bangla" tvg-logo="https://i.postimg.cc/dQ80KYLX/ZVro-V3u-400x400.jpg" group-title="BDIX",ZEE Bangla
+https://cdn.retosprime.com/ayna.php?id=104&e=.m3u8
+#EXTINF:-1 tvg-chno="137" tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png" group-title="BDIX",Zee Bangla Cinema
+https://cdn.retosprime.com/ayna.php?id=220&e=.m3u8
+#EXTINF:-1 tvg-chno="138" tvg-id="(no tvg-id)" tvg-name="ZEE Bangla HD" tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png" group-title="BDIX",ZEE Bangla HD
+http://103.132.181.118:82/play/a00k
+#EXTINF:-1 tvg-chno="139" tvg-id="(no tvg-id)" tvg-name="ZEE Bangla HD" tvg-logo="https://i.postimg.cc/D05r7zsM/e5Ldh7e.png" group-title="BDIX",ZEE Bangla HD
+https://cdn.retosprime.com/ayna.php?id=94&e=.m3u8
+#EXTINF:-1 tvg-chno="140" tvg-id="(no tvg-id)" tvg-name="Zee Cafe HD" tvg-logo="https://i.postimg.cc/fW3x7kqd/zeecafehd.png" group-title="BDIX",Zee Cafe HD
+https://cdn.retosprime.com/ayna.php?id=96&e=.m3u8
+#EXTINF:-1 tvg-chno="141" tvg-id="(no tvg-id)" tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png" group-title="BDIX",Zee Cinema HD
+http://103.132.181.118:82/play/a00i
+#EXTINF:-1 tvg-chno="142" tvg-id="(no tvg-id)" tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png" group-title="BDIX",Zee Cinema HD
+https://cdn.retosprime.com/ayna.php?id=103&e=.m3u8
+#EXTINF:-1 tvg-chno="143" tvg-id="(no tvg-id)" tvg-name="Zee News" tvg-logo="https://i.postimg.cc/rp8Mv7B7/image_78.jpg" group-title="BDIX",Zee News
+https://cdn.retosprime.com/ayna.php?id=100&e=.m3u8
+#EXTINF:-1 tvg-chno="144" tvg-id="(no tvg-id)" tvg-name="Zee TV HD" tvg-logo="https://i.postimg.cc/CLDbmYcD/KY6i6Adw.png" group-title="BDIX",Zee TV HD
+http://103.132.181.118:82/play/a00f
+#EXTINF:-1 tvg-chno="145" tvg-id="(no tvg-id)" tvg-name="Zee TV HD" tvg-logo="https://i.postimg.cc/CLDbmYcD/KY6i6Adw.png" group-title="BDIX",Zee TV HD
+https://cdn.retosprime.com/ayna.php?id=95&e=.m3u8
+#EXTINF:-1 tvg-chno="146" tvg-id="(no tvg-id)" tvg-name="Zing" tvg-logo="https://i.postimg.cc/dVw9GC6m/download-2.jpg" group-title="BDIX",Zing
+https://cdn.retosprime.com/ayna.php?id=99&e=.m3u8
