@@ -1,13 +1,9 @@
-#EXTM3U url-tvg=""
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" group-title="BDIX", T Sports
 http://pgplex.net:8080/BPL2024/index.m3u8
-#EXTM3U url-tvg=""
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" group-title="BDIX", T Sports
 http://103.109.56.116/live/skyfeed1005/index.m3u8
-#EXTM3U url-tvg=""
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="BPL" tvg-logo="" group-title="BDIX",BPL
 https://sports.yunyingtiandi.com/live/m32981314/playlist.m3u8
-#EXTM3U url-tvg=""
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="& flix HD [Multi Audio]" tvg-logo="https://i.postimg.cc/2SYDZPS3/flix_2.jpg" group-title="BDIX",& flix HD [Multi Audio]
 http://103.132.181.118:82/play/a00x
 #EXTINF:-1 tvg-chno="3" tvg-id="(no tvg-id)" tvg-name="& Pictures HD [Multi Audio]" tvg-logo="https://i.postimg.cc/s2c7zdvW/picture_2.jpg" group-title="BDIX",& Pictures HD [Multi Audio]
