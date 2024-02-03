@@ -1,3 +1,5 @@
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Sony Ten 3" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/SONY%20SPORTS%20TEN%204.jpg" group-title="BDIX", Sony Ten 3
+https://bongohub.pw/Sony.php?id=1000119186&e=.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Asian TV" tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" group-title="BDIX",Asian TV
 https://bongohub.pw/bioscope.php?cc=asian-tv-hd
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="NTV" tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" group-title="BDIX",NTV
@@ -367,15 +369,8 @@ https://cdn.retosprime.com/ayna.php?id=99&e=.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" group-title="BDIX",
 
-#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" group-title="BDIX",
 
 
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-name="Sony Ten 3"tvg-id="85"tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/SONY%20SPORTS%20TEN%204.jpg"tvg-chno="85"group-title="BDIX":http-referrer="":http-user-agent="",Sony Ten 4
-https://bongohub.pw/Sony.php?id=1000119186&e=.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 3"tvg-id="85"tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed43b998-2e56-48bb-8d0e-f81e47d87d7d_180x180_Ten3.jpg"tvg-chno="85"group-title="BDIX":http-referrer="":http-user-agent="",Sony Ten 3
 https://bongohub.pw/Sony.php?id=1000009278&e=.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 2"tvg-id="88"tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b0d554a9-c9ab-42a5-b208-3105872671b9_180x180_Ten-2.jpg"tvg-chno="88"group-title="BDIX":http-referrer="":http-user-agent="",Sony Ten 2
