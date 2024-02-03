@@ -1,3 +1,9 @@
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Gazi TV" tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" group-title="BDIX", Gazi TV
+http://103.109.56.116/live/skyfeed1006/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Cumilla TV" tvg-logo="https://i.postimg.cc/ZnXPq0RL/Cumilla-TV.jpg" group-title="BDIX", Cumilla TV
 http://103.149.142.133/0.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/ab/Star_Jalsha_HD_logo_%282011%29.png/revision/latest?cb=20210420232004" group-title="BDIX", Star Jalsha HD
