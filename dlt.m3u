@@ -33,11 +33,30 @@ https://bongohub.pw/bioscope.php?cc=sony-max-hd-live
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
 https://bongohub.pw/bioscope.php?cc=sony-ten-5
 
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Al Jazeera" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/dab2d561-ef54-40dd-9650-43dee09b92d0/29f2064c-f8a5-41ac-8a82-b5d7135b99b1.png" group-title="",Al Jazeera
+https://bongohub.pw/bioscope.php?cc=al-jazeera-english-live
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Ananda TV" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/f18423a6-1fa1-4d67-ade6-24b3a0bc5001/7e4cc4f0-6654-4e35-aa16-05e77eedb092.png" group-title="",Ananda TV
+https://bongohub.pw/bioscope.php?cc=ananda-tv
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Asian TV" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/de0277e1-fcab-4a84-8d1a-9dcdbdac7d05/4382bbec-8d64-4d00-b24f-60273db28712.png" group-title="",Asian TV
+https://bongohub.pw/bioscope.php?cc=asian-tv-hd
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="BBC Earth HD" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/2fe644f3-bf5f-4b81-86f0-ee989252c9d9/16b21868-911e-438b-b2c4-de04438b18d3.png" group-title="",BBC Earth HD
+https://bongohub.pw/bioscope.php?cc=bbc-earth-hd-live
+
+
+
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="", 
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="", 
 
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
 
@@ -46,6 +65,87 @@ https://bongohub.pw/bioscope.php?cc=sony-ten-5
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="", 
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="", 
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="", 
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="", 
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="", 
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="", 
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="", 
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="", 
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="", 
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="", 
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="", 
+
 
 
 
@@ -624,25 +724,3 @@ https://bongohub.pw/bioscope.php?cc=btv-hd
 https://bongohub.pw/bioscope.php?cc=boishakhi-tv
 #EXTINF:-1 tvg-name="Bijoy TV"tvg-id="41"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/475ebdaa-6f12-4238-9bf4-0270d63ff340/01261017-8d27-4e85-8a02-157551d91289.png?width=300"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",Bijoy TV
 https://bongohub.pw/bioscope.php?cc=bijoy-tv
-#EXTINF:-1 tvg-name="BBC Earth HD"tvg-id="51"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/2fe644f3-bf5f-4b81-86f0-ee989252c9d9/16b21868-911e-438b-b2c4-de04438b18d3.png?width=300"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",BBC Earth HD
-https://bongohub.pw/bioscope.php?cc=bbc-earth-hd-live
-#EXTINF:-1 tvg-name="Bangla Vision"tvg-id="19"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e29634d1-25f0-455e-b24f-66568c17845c/31d65e04-de18-4287-afbd-255903ecc2c7.png?width=300"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",Bangla Vision
-https://bongohub.pw/bioscope.php?cc=bangla-vision
-#EXTINF:-1 tvg-name="Bangla TV"tvg-id="27"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/6f9ba5ba-bdcd-4280-9499-79888146d41f/7dda5871-5429-40f4-b8fa-840efb1936cc.png?width=300"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",Bangla TV
-https://bongohub.pw/bioscope.php?cc=bangla-tv
-#EXTINF:-1 tvg-name="ATN Bangla"tvg-id="25"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/f0242c14-04df-4e2e-9e22-0e577839ce12/47490942-bd2d-4c40-94a0-5656c4a763b7.png?width=300"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",ATN Bangla
-https://bongohub.pw/bioscope.php?cc=atn-bangla
-#EXTINF:-1 tvg-name="Asian TV HD"tvg-id="26"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/de0277e1-fcab-4a84-8d1a-9dcdbdac7d05/4382bbec-8d64-4d00-b24f-60273db28712.png?width=300"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",Asian TV HD
-https://bongohub.pw/bioscope.php?cc=asian-tv-hd
-#EXTINF:-1 tvg-name="Ananda TV"tvg-id="29"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/f18423a6-1fa1-4d67-ade6-24b3a0bc5001/7e4cc4f0-6654-4e35-aa16-05e77eedb092.png?width=300"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",Ananda TV
-https://bongohub.pw/bioscope.php?cc=ananda-tv
-#EXTINF:-1 tvg-name="Al Jazeera"tvg-id="35"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/dab2d561-ef54-40dd-9650-43dee09b92d0/29f2064c-f8a5-41ac-8a82-b5d7135b99b1.png?width=300"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",Al Jazeera
-https://bongohub.pw/bioscope.php?cc=al-jazeera-english-live
-#EXTINF:-1 tvg-name="BTV National"tvg-id="1"tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",Sony Max
-https://bongohub.pw/wp-content/uploads/2024/01/bdsajib.mp4
-#EXTINF:-1 tvg-name="Goldmines Bollywood"tvg-id="154"tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5d3db61b-9d33-47ed-b273-7bb235f14431_180x180_Goldmines_Bollywood.jpg"tvg-chno="154"group-title="":http-referrer="":http-user-agent="",Goldmines Bollywood
-https://bongohub.pw/wp-content/uploads/2024/01/bdsajib.mp4
-#EXTINF:-1 tvg-name="BDSAJIB"tvg-id="1"tvg-logo="https://telegra.ph/file/cc92c84e58265bd795a61.png"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",BDSATV
-https://bongohub.pw/wp-content/uploads/2024/01/bdsajib.mp4
-#EXTINF:-1 tvg-name="Nickelodeon"tvg-id="500"tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/795d60ef-4f7a-4373-8aa0-afa3048f371e_180x180_Nick.png"tvg-chno="126"group-title="":http-referrer="":http-user-agent="",Nickelodeon
-https://bongohub.pw/wp-content/uploads/2024/01/bdsajib.mp4
