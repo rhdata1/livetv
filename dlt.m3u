@@ -85,16 +85,30 @@ https://bongohub.pw/bioscope.php?cc=dbc-news
 https://bongohub.pw/bioscope.php?cc=comedy-central
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Colors Rishtey" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/17d8fd6b-67ce-4c6a-8b5b-7cd7b3ea68cc/7885c62f-ae2a-48dd-8dfb-011f4cedb6ed.png" group-title="", Colors Rishtey
 https://bongohub.pw/bioscope.php?cc=colors-rishtey
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Nexus Television HD" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a459d0db-8ef7-45d0-8e24-3422faceef4d/d301f2a8-e824-4ca4-8607-5a5c775b8d4f.png" group-title="",Nexus Television HD
+https://bongohub.pw/bioscope.php?cc=nexus-television-hd
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="News 24 HD" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/c70be28f-95ff-4daa-b432-300795099919/f0a5fda1-19ab-438a-a391-702e70c52f17.png" group-title="",News 24 HD
+https://bongohub.pw/bioscope.php?cc=news-24-hd
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="My TV" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/7d1c5d3f-449d-4bf5-9a7e-ab8079ebecd4/11e79c92-ff02-4fcd-be6d-7f3023b157b8.png" group-title="",My TV
+https://bongohub.pw/bioscope.php?cc=my-tv
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="MTV Beats" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/6dbec8ae-f3c1-4f58-a9e7-1bda442b1de5/487bdf23-fe1a-4410-aa93-eda6dfd34dda.jpg" group-title="", MTV Beats
+https://bongohub.pw/bioscope.php?cc=mtv-beats
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/5b042b51-cf7a-4afb-8fa1-7c040b517cc9/8b327084-8b17-40fb-b0c2-84ab8ace4eee.png" group-title="",MTV
+https://bongohub.pw/bioscope.php?cc=mtv
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Mohonta TV" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3437aec4-f99a-4802-8633-c0267d7cce21/b81ab70e-f47f-4c1a-82f3-db5d7c2acd3b.png" group-title="",Mohonta TV
+https://bongohub.pw/bioscope.php?cc=mohona-tv
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="MAX 2" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b8889e85-bc30-4fbc-8a8d-76fb798534eb/104bc03f-1390-4257-b8e9-70aa76a150d3.png" group-title="",MAX 2
+https://bongohub.pw/bioscope.php?cc=max-2
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Nickelodeon" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3a980e48-4495-407e-b422-ad7633bae4dd/ea443332-ed92-49c3-8221-c1c86b05f13f.png" group-title="", Nickelodeon
+https://bongohub.pw/bioscope.php?cc=nickelodeon
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Nick Junior" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/565f8459-678d-4495-9aad-364bdc16dc41/01ed5f96-1802-4e11-9335-81eb30f72740.png" group-title="",Nick Junior
+https://bongohub.pw/bioscope.php?cc=nick-junior
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="NTV" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/c464fb45-f8bf-49a5-be22-85699806536e/64eac2a6-19cd-4507-b246-2c8f10a991f9.png" group-title="",NTV
+https://bongohub.pw/bioscope.php?cc=ntv
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Rajdhani TV" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b26da36a-8cc2-4d78-81b5-712efa69484a/a21de3fd-d994-403a-ae83-c7b54c2f224f.png" group-title="",Rajdhani TV
+https://bongohub.pw/bioscope.php?cc=rajdhani-tv
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="RTV" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/76b4fc9d-cdcb-4693-8269-1350cdad57ae/d9023977-e8ed-401a-990c-7b08256097cc.png" group-title="", RTV
+https://bongohub.pw/bioscope.php?cc=rtv
 
 
 
@@ -159,6 +173,29 @@ https://bongohub.pw/bioscope.php?cc=colors-rishtey
 
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="", 
 
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="", 
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="", 
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="", 
 
 
 
@@ -669,27 +706,3 @@ https://bongohub.pw/bioscope.php?cc=somoy-tv
 https://bongohub.pw/bioscope.php?cc=sa-tv
 #EXTINF:-1 tvg-name="Sangsad TV"tvg-id="33"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/20923e29-ea03-4d63-b31e-eb26e77465ae/340a2a0f-5bb1-430f-a316-6e4c2a9e7bda.png?width=300"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",Sangsad TV
 https://bongohub.pw/bioscope.php?cc=sangsad-tv
-#EXTINF:-1 tvg-name="RTV"tvg-id="18"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/76b4fc9d-cdcb-4693-8269-1350cdad57ae/d9023977-e8ed-401a-990c-7b08256097cc.png?width=300"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",RTV
-https://bongohub.pw/bioscope.php?cc=rtv
-#EXTINF:-1 tvg-name="Rajdhani TV"tvg-id="13"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b26da36a-8cc2-4d78-81b5-712efa69484a/a21de3fd-d994-403a-ae83-c7b54c2f224f.png?width=300"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",Rajdhani TV
-https://bongohub.pw/bioscope.php?cc=rajdhani-tv
-#EXTINF:-1 tvg-name="NTV"tvg-id="10"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/c464fb45-f8bf-49a5-be22-85699806536e/64eac2a6-19cd-4507-b246-2c8f10a991f9.png?width=300"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",NTV
-https://bongohub.pw/bioscope.php?cc=ntv
-#EXTINF:-1 tvg-name="Nick Junior"tvg-id="59"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/565f8459-678d-4495-9aad-364bdc16dc41/01ed5f96-1802-4e11-9335-81eb30f72740.png?width=300"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",Nick Junior
-https://bongohub.pw/bioscope.php?cc=nick-junior
-#EXTINF:-1 tvg-name="Nickelodeon"tvg-id="55"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3a980e48-4495-407e-b422-ad7633bae4dd/ea443332-ed92-49c3-8221-c1c86b05f13f.png?width=300"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",Nickelodeon
-https://bongohub.pw/bioscope.php?cc=nickelodeon
-#EXTINF:-1 tvg-name="Nexus Television HD"tvg-id="30"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a459d0db-8ef7-45d0-8e24-3422faceef4d/d301f2a8-e824-4ca4-8607-5a5c775b8d4f.png?width=300"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",Nexus Television HD
-https://bongohub.pw/bioscope.php?cc=nexus-television-hd
-#EXTINF:-1 tvg-name="News 24 HD"tvg-id="45"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/c70be28f-95ff-4daa-b432-300795099919/f0a5fda1-19ab-438a-a391-702e70c52f17.png?width=300"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",News 24 HD
-https://bongohub.pw/bioscope.php?cc=news-24-hd
-#EXTINF:-1 tvg-name="My TV"tvg-id="52"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/7d1c5d3f-449d-4bf5-9a7e-ab8079ebecd4/11e79c92-ff02-4fcd-be6d-7f3023b157b8.png?width=300"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",My TV
-https://bongohub.pw/bioscope.php?cc=my-tv
-#EXTINF:-1 tvg-name="MTV Beats"tvg-id="63"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/6dbec8ae-f3c1-4f58-a9e7-1bda442b1de5/487bdf23-fe1a-4410-aa93-eda6dfd34dda.jpg?width=300"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",MTV Beats
-https://bongohub.pw/bioscope.php?cc=mtv-beats
-#EXTINF:-1 tvg-name="MTV"tvg-id="61"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/5b042b51-cf7a-4afb-8fa1-7c040b517cc9/8b327084-8b17-40fb-b0c2-84ab8ace4eee.png?width=300"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",MTV
-https://bongohub.pw/bioscope.php?cc=mtv
-#EXTINF:-1 tvg-name="Mohona TV"tvg-id="50"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3437aec4-f99a-4802-8633-c0267d7cce21/b81ab70e-f47f-4c1a-82f3-db5d7c2acd3b.png?width=300"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",Mohonta TV
-https://bongohub.pw/bioscope.php?cc=mohona-tv
-#EXTINF:-1 tvg-name="MAX 2"tvg-id="54"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b8889e85-bc30-4fbc-8a8d-76fb798534eb/104bc03f-1390-4257-b8e9-70aa76a150d3.png?width=300"tvg-chno="1"group-title="":http-referrer="":http-user-agent="",MAX 2
-https://bongohub.pw/bioscope.php?cc=max-2
