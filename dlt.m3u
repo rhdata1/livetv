@@ -4,13 +4,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/ab/Star_Jalsha_HD_logo_%282011%29.png" group-title="", Star Jalsha HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/ab/Star_Jalsha_HD_logo_%282011%29.png" group-title="", Star Jalsha HD
-http://103.132.181.118:82/play/a001
-#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/ab/Star_Jalsha_HD_logo_%282011%29.png" group-title="", Star Jalsha HD
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155770&extension=ts&play_token=otM0DQF4Ff
-#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/ab/Star_Jalsha_HD_logo_%282011%29.png" group-title="", Star Jalsha HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/ab/Star_Jalsha_HD_logo_%282011%29.png" group-title="", Star Jalsha HD
-http://103.132.181.118:82/play/a001
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Sony Ten 3" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed43b998-2e56-48bb-8d0e-f81e47d87d7d_180x180_Ten3.jpg" group-title="", Sony Ten 3
 https://bongohub.pw/Sony.php?id=1000009278&e=.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Sony Ten 2" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b0d554a9-c9ab-42a5-b208-3105872671b9_180x180_Ten-2.jpg" group-title="",Sony Ten 2
@@ -19,8 +13,7 @@ https://bongohub.pw/Sony.php?id=1000009277&e=.m3u8
 https://bongohub.pw/Sony.php?id=1000009276&e=.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Sony Ten 3" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="",Sony Ten 3
 https://bongohub.pw/Sony.php?id=1000009275&e=.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
-https://bongohub.pw/bioscope.php?cc=sony-ten-5
+
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Sony Sports Ten 5" tvg-logo="" group-title="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5f317e1-3503-40fa-ad37-8ad341109a85/953f7afc-76c7-41a2-b775-644121768d97.png",Sony Sports Ten 5
 https://bongohub.pw/bioscope.php?cc=sony-ten-5
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Sony Sports Ten 3" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/84ae1e76-ec5e-44da-bd8f-b1c9d9663b26/d33a8bd6-14b0-4bb4-84ac-6fb3ec426611.png" group-title="",Sony Sports Ten 3
@@ -31,9 +24,14 @@ https://bongohub.pw/bioscope.php?cc=sony-ten-2-live
 https://bongohub.pw/bioscope.php?cc=sony-ten-1-live
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Sony MAX HD" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/bc31f211-29d9-43be-88b1-0176cc608c06/721af74c-cda6-4144-942c-5b84f573ade8.png" group-title="",Sony MAX HD
 https://bongohub.pw/bioscope.php?cc=sony-max-hd-live
-
-
-
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/ab/Star_Jalsha_HD_logo_%282011%29.png" group-title="", Star Jalsha HD
+http://103.132.181.118:82/play/a001
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/ab/Star_Jalsha_HD_logo_%282011%29.png" group-title="", Star Jalsha HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155770&extension=ts&play_token=otM0DQF4Ff
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/ab/Star_Jalsha_HD_logo_%282011%29.png" group-title="", Star Jalsha HD
+http://103.132.181.118:82/play/a001
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
+https://bongohub.pw/bioscope.php?cc=sony-ten-5
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="",
