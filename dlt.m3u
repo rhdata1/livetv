@@ -137,7 +137,7 @@ https://tvs1.aynaott.com/bbcnews/index.m3u8?hdnts=st=1707642066~exp=1707685266~a
 https://bongohub.pw/bioscope.php?cc=ekattur-tv
 #EXTINF:-1 tvg-name="Ekattor TV"tvg-id="(no tvg-id)"tvg-logo="https://cdn.ekattor.net/contents/themes/public/style/images/logo.png"tvg-chno="1"group-title="",Ekattor TV
 http://pgplex.net:8080/EkattorTV/index.m3u8
-#EXTINF:-1 tvg-name="Nagorik TV"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png"tvg-chno="1"group-title="",Ekattor TV
+#EXTINF:-1 tvg-name="Nagorik TV"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png"tvg-chno="1"group-title="",Nagorik TV
 http://pgplex.net:8080/NagorikTV/index.m3u8
 
 
