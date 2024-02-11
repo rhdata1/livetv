@@ -219,28 +219,17 @@ http://103.132.181.118:82/play/a00a
 
 
 
-#EXTINF:-1 tvg-name="T Sports"tvg-id="(no tvg-id)"tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b"tvg-chno="1"group-title="",T Sports
+#EXTINF:-1 tvg-name="T Sports"tvg-id="(no tvg-id)"tvg-logo="https://www.tsports.com/images/tsportslogo.svg"tvg-chno="1"group-title="",T Sports
 https://tvs1.aynaott.com/tsportsfhd/index.m3u8?hdnts=st=1707642066~exp=1707685266~acl=/tsportsfhd/*~data=103.90.200.200-PHONE~hmac=97732014846d8cccbef884b1c0161ef5ac736e4778e2f64488cca6841ef15989
-#EXTINF:-1 tvg-name="T Sports"tvg-id="(no tvg-id)"tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b"tvg-chno="1"group-title="",T Sports
+#EXTINF:-1 tvg-name="T Sports"tvg-id="(no tvg-id)"tvg-logo="https://www.tsports.com/images/tsportslogo.svg"tvg-chno="1"group-title="",T Sports
 https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1707642066~exp=1707685266~acl=/tsportshd/*~data=103.90.200.200-PHONE~hmac=113bbfcd777f0bf03c57ee0ed06d92d56c9e55be97d15c721735052772548099
-#EXTINF:-1 tvg-name="T Sports"tvg-id="(no tvg-id)"tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b"tvg-chno="1"group-title="",T Sports
+#EXTINF:-1 tvg-name="T Sports"tvg-id="(no tvg-id)"tvg-logo="https://www.tsports.com/images/tsportslogo.svg"tvg-chno="1"group-title="",T Sports
 https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1707642066~exp=1707685266~acl=/tsportshd/*~data=103.90.200.200-PHONE~hmac=113bbfcd777f0bf03c57ee0ed06d92d56c9e55be97d15c721735052772548099
-
-
-
-
-
-#EXTINF:-1 tvg-name="T Sports"tvg-id="(no tvg-id)"tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b"tvg-chno="1"group-title="",T Sports
+#EXTINF:-1 tvg-name="T Sports"tvg-id="(no tvg-id)"tvg-logo="https://www.tsports.com/images/tsportslogo.svg"tvg-chno="1"group-title="",T Sports
 http://pgplex.net:8080/BPL2024/index.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-name="T Sports"tvg-id="(no tvg-id)"tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b"tvg-chno="1"group-title="",T Sports
 http://103.109.56.116/live/skyfeed1005/index.m3u8
-#EXTINF:-1 tvg-name="T Sports HD"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/023FZ1wP/TBBDXLU.png"tvg-chno="1"group-title="",T Sports HD
+#EXTINF:-1 tvg-name="T Sports HD"tvg-id="(no tvg-id)"tvg-logo="https://www.tsports.com/images/tsportslogo.svg"tvg-chno="1"group-title="",T Sports HD
 http://103.141.2.37:25461/live/web/web/588.m3u8
 #EXTINF:-1 tvg-name="VH1"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a6fa91ea-b555-48b5-b547-8fb1495b6708/2ab4a1f0-a1fd-4e7a-ba71-34f7967805fa.png"tvg-chno="1"group-title="",VH1
 https://bongohub.pw/bioscope.php?cc=vh1
