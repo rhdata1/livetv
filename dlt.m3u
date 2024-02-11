@@ -1,8 +1,28 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-name="Star Sports 1 HD"tvg-id="(no tvg-id)"tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg"tvg-chno="1"group-title="",Star Sports 1 HD
-https://tvs3.aynaott.com/sspts1/index.m3u8?hdnts=st=1707642066~exp=1707685266~acl=/sspts1/*~data=103.90.200.200-PHONE~hmac=578aca5e778de4333fff6d3c4f2022b94320a907ca1430d928a492edaf066886
-#EXTINF:-1 tvg-name="Star Sports 2 HD"tvg-id="(no tvg-id)"tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43a3065c-206b-4bac-99bf-be503e9c6008_180x180_Star-Sports-2-HD.jpg"tvg-chno="1"group-title="",Star Sports 2 HD
-https://tvs3.aynaott.com/ssport2hd/index.m3u8?hdnts=st=1707642066~exp=1707685266~acl=/ssport2hd/*~data=103.90.200.200-PHONE~hmac=2d29c05816d6eb1daec5111d7ddc2bfe982be46b1ebccb708f5ddb0f9cf10e78
+#EXTINF:-1 tvg-name="Sony Sports 1 HD"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/f329b795-ec26-4721-85b6-8c569a9cbf2d/ea6c0a48-2348-456e-8ab2-fd540e6ee5a6.png"tvg-chno="1"group-title="",Sony Sports 1 HD
+https://bongohub.pw/bioscope.php?cc=sony-ten-1-live
+#EXTINF:-1 tvg-name="Sony Sports 1 HD"tvg-id="(no tvg-id)"tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c9354075-e266-4cde-981a-cb4e56e26702_180x180_SonyTenHD.jpg"tvg-chno="1"group-title="",Sony Sports 1 HD
+https://bongohub.pw/Sony.php?id=1000009276&e=.m3u8
+#EXTINF:-1 tvg-name="Sony Sports 2"tvg-id="(no tvg-id)"tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b0d554a9-c9ab-42a5-b208-3105872671b9_180x180_Ten-2.jpg"tvg-chno="1"group-title="",Sony Sports 2
+https://bongohub.pw/Sony.php?id=1000009277&e=.m3u8
+#EXTINF:-1 tvg-name="Sony Sports 2"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e2174a76-fc11-4609-bb83-aa94aa117a27/c8ea1bab-49ab-4702-be5e-7058bbf6a591.png"tvg-chno="1"group-title="",Sony Sports 2
+https://bongohub.pw/bioscope.php?cc=sony-ten-2-live
+#EXTINF:-1 tvg-name="Sony Sports 3 HD"tvg-id="(no tvg-id)"tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed43b998-2e56-48bb-8d0e-f81e47d87d7d_180x180_Ten3.jpg"tvg-chno="1"group-title="",Sony Sports 3 HD
+https://bongohub.pw/Sony.php?id=1000009278&e=.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Sports 3 HD"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/84ae1e76-ec5e-44da-bd8f-b1c9d9663b26/d33a8bd6-14b0-4bb4-84ac-6fb3ec426611.png"tvg-chno="1"group-title="",Sony Sports 3 HD
+https://bongohub.pw/bioscope.php?cc=sony-ten-3-live
+#EXTINF:-1 tvg-name="Sony Sports 4 HD"tvg-id="(no tvg-id)"tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/SONY%20SPORTS%20TEN%204.jpg"tvg-chno="1"group-title="",Sony Sports 4 HD
+https://bongohub.pw/Sony.php?id=1000119186&e=.m3u8
+#EXTINF:-1 tvg-name="Sony Sports 5 HD"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5f317e1-3503-40fa-ad37-8ad341109a85/953f7afc-76c7-41a2-b775-644121768d97.png"tvg-chno="1"group-title="",Sony Sports 5 HD
+https://bongohub.pw/bioscope.php?cc=sony-ten-5
+#EXTINF:-1 tvg-name="Sony Sports 5 HD"tvg-id="(no tvg-id)"tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png"tvg-chno="1"group-title="",Sony Sports 5 HD
+https://bongohub.pw/Sony.php?id=1000009275&e=.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="& flix HD [Multi Audio]"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/2SYDZPS3/flix_2.jpg"tvg-chno="1"group-title="",& flix HD [Multi Audio]
 http://103.132.181.118:82/play/a00x
 #EXTINF:-1 tvg-name="& Pictures HD"tvg-id="(no tvg-id)"tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/1c7e5a1d-91d1-4184-a112-b91043da01b3/0e97fe3d-78a2-4967-a32c-e2f4876cc856.png"tvg-chno="1"group-title="",& Pictures HD
@@ -96,8 +116,6 @@ https://tvs1.aynaott.com/animal_planet_hd/index.m3u8?hdnts=st=1707642066~exp=170
 https://tvs1.aynaott.com/discovery_science/index.m3u8?hdnts=st=1707642066~exp=1707685266~acl=/discovery_science/*~data=103.90.200.200-PHONE~hmac=1efb4c2ccb7073ea8dfa30c9f3874d2693a4ff84f6fb252f99c5a5c41fa5f07f
 #EXTINF:-1 tvg-name="Duronto TV"tvg-id="(no tvg-id)"tvg-logo="https://duronto.tv/global/admin/images/setting/logo2.png"tvg-chno="1"group-title="",Duronto TV
 https://tvs1.aynaott.com/durontotv/index.m3u8?hdnts=st=1707642066~exp=1707685266~acl=/durontotv/*~data=103.90.200.200-PHONE~hmac=b22faa02cf9114815b2e3a1fcd2de8e89002869ca6202885282371e588f586f6
-#EXTINF:-1 tvg-name="Duronto TV"tvg-id="(no tvg-id)"tvg-logo="https://duronto.tv/global/admin/images/setting/logo2.png"tvg-chno="1"group-title="",Duronto TV
-https://s.id/21ksg
 #EXTINF:-1 tvg-name="Cartoon Network"tvg-id="(no tvg-id)"tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/db363850-ad01-4b64-9790-b3f7cc793513_180x180_Cartoon-Network.jpg"tvg-chno="1"group-title="",Cartoon Network
 https://tvs2.aynaott.com/cartoonnetwork/index.m3u8?hdnts=st=1707642066~exp=1707685266~acl=/cartoonnetwork/*~data=103.90.200.200-PHONE~hmac=2ae4adc8fde6c174657a22b33c09dbc148733f12de1dd870c30932766a71c900
 #EXTINF:-1 tvg-name="Discovery Kids"tvg-id="(no tvg-id)"tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/63d49539-a30b-4326-8848-2af69fb58f92_180x180_discovery_kids.jpg"tvg-chno="1"group-title="",Discovery Kids
@@ -269,28 +287,6 @@ https://bongohub.pw/bioscope.php?cc=sony-pix-live
 http://103.132.181.118:82/play/a00y
 #EXTINF:-1 tvg-name="Sony SAB TV"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/825a35e8-a1c7-4abf-84cf-d9b7e21e5657/0369f492-c12f-4dab-a2a9-a090943521dc.png"tvg-chno="1"group-title="",Sony SAB TV
 https://bongohub.pw/bioscope.php?cc=sony-sab-tv-live
-#EXTINF:-1 tvg-name="Sony Sports Ten 1"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/f329b795-ec26-4721-85b6-8c569a9cbf2d/ea6c0a48-2348-456e-8ab2-fd540e6ee5a6.png"tvg-chno="1"group-title="",Sony Sports Ten 1
-https://bongohub.pw/bioscope.php?cc=sony-ten-1-live
-#EXTINF:-1 tvg-name="Sony Sports Ten 2"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e2174a76-fc11-4609-bb83-aa94aa117a27/c8ea1bab-49ab-4702-be5e-7058bbf6a591.png"tvg-chno="1"group-title="",Sony Sports Ten 2
-https://bongohub.pw/bioscope.php?cc=sony-ten-2-live
-#EXTINF:-1 tvg-name="Sony Sports Ten 3"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/84ae1e76-ec5e-44da-bd8f-b1c9d9663b26/d33a8bd6-14b0-4bb4-84ac-6fb3ec426611.png"tvg-chno="1"group-title="",Sony Sports Ten 3
-https://bongohub.pw/bioscope.php?cc=sony-ten-3-live
-#EXTINF:-1 tvg-name="Sony Sports Ten 3"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/84ae1e76-ec5e-44da-bd8f-b1c9d9663b26/d33a8bd6-14b0-4bb4-84ac-6fb3ec426611.png"tvg-chno="1"group-title="",Sony Sports Ten 3
-https://bongohub.pw/bioscope.php?cc=sony-ten-3-live
-#EXTINF:-1 tvg-name="Sony Sports Ten 5"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5f317e1-3503-40fa-ad37-8ad341109a85/953f7afc-76c7-41a2-b775-644121768d97.png"tvg-chno="1"group-title="",Sony Sports Ten 5
-https://bongohub.pw/bioscope.php?cc=sony-ten-5
-#EXTINF:-1 tvg-name="Sony Ten 1 HD"tvg-id="(no tvg-id)"tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c9354075-e266-4cde-981a-cb4e56e26702_180x180_SonyTenHD.jpg"tvg-chno="1"group-title="",Sony Ten 1 HD
-https://bongohub.pw/Sony.php?id=1000009276&e=.m3u8
-#EXTINF:-1 tvg-name="Sony Ten 2"tvg-id="(no tvg-id)"tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b0d554a9-c9ab-42a5-b208-3105872671b9_180x180_Ten-2.jpg"tvg-chno="1"group-title="",Sony Ten 2
-https://bongohub.pw/Sony.php?id=1000009277&e=.m3u8
-#EXTINF:-1 tvg-name="Sony Ten 3"tvg-id="(no tvg-id)"tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/SONY%20SPORTS%20TEN%204.jpg"tvg-chno="1"group-title="",Sony Ten 3
-https://bongohub.pw/Sony.php?id=1000119186&e=.m3u8
-#EXTINF:-1 tvg-name="Sony Ten 3"tvg-id="(no tvg-id)"tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed43b998-2e56-48bb-8d0e-f81e47d87d7d_180x180_Ten3.jpg"tvg-chno="1"group-title="",Sony Ten 3
-https://bongohub.pw/Sony.php?id=1000009278&e=.m3u8
-#EXTINF:-1 tvg-name="Sony Ten 4"tvg-id="(no tvg-id)"tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/SONY%20SPORTS%20TEN%204.jpg"tvg-chno="1"group-title="",Sony Ten 4
-https://bongohub.pw/Sony.php?id=1000119186&e=.m3u8
-#EXTINF:-1 tvg-name="Sony Ten 5"tvg-id="(no tvg-id)"tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png"tvg-chno="1"group-title="",Sony Ten 5
-https://bongohub.pw/Sony.php?id=1000009275&e=.m3u8
 #EXTINF:-1 tvg-name="Sony TV HD"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/yd9WqNjW/SET-LOGO-HD.png"tvg-chno="1"group-title="",Sony TV HD
 http://103.132.181.118:82/play/a00h
 #EXTINF:-1 tvg-name="Sony WAH"tvg-id="(no tvg-id)"tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/074ede35-9396-4470-a0cd-e350f5e351f3_180x180_SonyWah.jpg"tvg-chno="1"group-title="",Sony WAH
@@ -352,6 +348,9 @@ http://pgplex.net:8080/BPL2024/index.m3u8
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:-1 tvg-name="T Sports HD"tvg-id="(no tvg-id)"tvg-logo="https://www.tsports.com/images/tsportslogo.svg"tvg-chno="1"group-title="",T Sports HD
 http://103.141.2.37:25461/live/web/web/588.m3u8
+
+
+
 #EXTINF:-1 tvg-name="VH1"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a6fa91ea-b555-48b5-b547-8fb1495b6708/2ab4a1f0-a1fd-4e7a-ba71-34f7967805fa.png"tvg-chno="1"group-title="",VH1
 https://bongohub.pw/bioscope.php?cc=vh1
 #EXTINF:-1 tvg-name="Zee Action"tvg-id="(no tvg-id)"tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2b43c88f-23c6-4168-9f77-f1065775df0a/8c8f27da-ca34-4e9a-921e-a28fb03b8d41.png"tvg-chno="1"group-title="",Zee Action
