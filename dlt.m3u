@@ -143,6 +143,8 @@ http://pgplex.net:8080/OutsideTV/index.m3u8
 http://pgplex.net:8080/OneGolf/index.m3u8
 #EXTINF:-1 tvg-name="NTV"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/c464fb45-f8bf-49a5-be22-85699806536e/64eac2a6-19cd-4507-b246-2c8f10a991f9.png"tvg-chno="1"group-title="Bangla",NTV
 https://bongohub.pw/bioscope.php?cc=ntv
+#EXTINF:-1 tvg-name="Kids Creation TV"tvg-id="(no tvg-id)"tvg-logo=""tvg-chno="1"group-title="Kids",Kids Creation TV
+https://vods1.aynaott.com/kidscreation_test/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3a980e48-4495-407e-b422-ad7633bae4dd/ea443332-ed92-49c3-8221-c1c86b05f13f.png"tvg-chno="1"group-title="Kids",Nickelodeon
 https://bongohub.pw/bioscope.php?cc=nickelodeon
 #EXTINF:-1 tvg-name="Nick Junior"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/565f8459-678d-4495-9aad-364bdc16dc41/01ed5f96-1802-4e11-9335-81eb30f72740.png"tvg-chno="1"group-title="Kids",Nick Junior
