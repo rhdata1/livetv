@@ -3,8 +3,6 @@
 https://tvs3.aynaott.com/sspts1/index.m3u8?hdnts=st=1707642066~exp=1707685266~acl=/sspts1/*~data=103.90.200.200-PHONE~hmac=578aca5e778de4333fff6d3c4f2022b94320a907ca1430d928a492edaf066886
 #EXTINF:-1 tvg-name="Star Sports 2 HD"tvg-id="(no tvg-id)"tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43a3065c-206b-4bac-99bf-be503e9c6008_180x180_Star-Sports-2-HD.jpg"tvg-chno="1"group-title="",Star Sports 2 HD
 https://tvs3.aynaott.com/ssport2hd/index.m3u8?hdnts=st=1707642066~exp=1707685266~acl=/ssport2hd/*~data=103.90.200.200-PHONE~hmac=2d29c05816d6eb1daec5111d7ddc2bfe982be46b1ebccb708f5ddb0f9cf10e78
-#EXTINF:-1 tvg-name="Sports 18"tvg-id="(no tvg-id)"tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/22a8244f-9923-497a-a626-768cdd2d4d3c_180x180_sports-18.jpg"tvg-chno="1"group-title="",Sports 18
-https://tvs3.aynaott.com/sports18/index.m3u8?hdnts=st=1707642066~exp=1707685266~acl=/sports18/*~data=103.90.200.200-PHONE~hmac=5e3a41ea490f027a8db4bc4888d750e1eb0416f84780ecffc554ed2366cdd757
 #EXTINF:-1 tvg-name="& flix HD [Multi Audio]"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/2SYDZPS3/flix_2.jpg"tvg-chno="1"group-title="",& flix HD [Multi Audio]
 http://103.132.181.118:82/play/a00x
 #EXTINF:-1 tvg-name="& Pictures HD"tvg-id="(no tvg-id)"tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/1c7e5a1d-91d1-4184-a112-b91043da01b3/0e97fe3d-78a2-4967-a32c-e2f4876cc856.png"tvg-chno="1"group-title="",& Pictures HD
