@@ -58,6 +58,8 @@ https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:-1 tvg-name="Discovery HD [Multi Audio]"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png"tvg-chno="1"group-title="",Discovery HD [Multi Audio]
 http://103.132.181.118:82/play/a007
 #EXTINF:-1 tvg-name="Duronto TV"tvg-id="(no tvg-id)"tvg-logo="https://duronto.tv/global/admin/images/setting/logo2.png"tvg-chno="1"group-title="",Duronto TV
+https://tvs1.aynaott.com/durontotv/index.m3u8?hdnts=st=1707642066~exp=1707685266~acl=/durontotv/*~data=103.90.200.200-PHONE~hmac=b22faa02cf9114815b2e3a1fcd2de8e89002869ca6202885282371e588f586f6
+#EXTINF:-1 tvg-name="Duronto TV"tvg-id="(no tvg-id)"tvg-logo="https://duronto.tv/global/admin/images/setting/logo2.png"tvg-chno="1"group-title="",Duronto TV
 https://s.id/21ksg
 #EXTINF:-1 tvg-name="DW"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png"tvg-chno="1"group-title="",DW
 https://bongohub.pw/bioscope.php?cc=dw-live
@@ -261,3 +263,8 @@ https://api.bongohub.pw/bongo.php?cc=zee-tv-hd
 http://103.132.181.118:82/play/a00f
 #EXTINF:-1 tvg-name="Zing"tvg-id="(no tvg-id)"tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e8ffd2a5-80fe-480b-833d-173da7830887/3b6e8661-1f9b-4e4e-9189-e4d7e77d033e.png"tvg-chno="1"group-title="",Zing
 https://api.bongohub.pw/bongo.php?cc=zing
+
+
+
+#EXTINF:-1 tvg-name=""tvg-id="(no tvg-id)""tvg-chno="1"group-title=""
+
