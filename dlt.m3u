@@ -377,9 +377,9 @@ http://103.141.2.37:25461/live/web/web/588.m3u8
 
 #EXTINF:-1 tvg-name="VH1"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a6fa91ea-b555-48b5-b547-8fb1495b6708/2ab4a1f0-a1fd-4e7a-ba71-34f7967805fa.png"tvg-chno="1"group-title="",VH1
 https://bongohub.pw/bioscope.php?cc=vh1
-#EXTINF:-1 tvg-name="Zee Action"tvg-id="(no tvg-id)"tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2b43c88f-23c6-4168-9f77-f1065775df0a/8c8f27da-ca34-4e9a-921e-a28fb03b8d41.png"tvg-chno="1"group-title="",Zee Action
+#EXTINF:-1 tvg-name="Zee Action"tvg-id="(no tvg-id)"tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2b43c88f-23c6-4168-9f77-f1065775df0a/8c8f27da-ca34-4e9a-921e-a28fb03b8d41.png"tvg-chno="1"group-title="Hindi",Zee Action
 https://api.bongohub.pw/bongo.php?cc=zee-action
-#EXTINF:-1 tvg-name="Zee Anmol"tvg-id="(no tvg-id)"tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/5c611e4f-aa8d-4e46-8242-ff76a6fec77a/b0f5393e-3fc1-427d-ba33-9429d7298a9b.png"tvg-chno="1"group-title="",Zee Anmol
+#EXTINF:-1 tvg-name="Zee Anmol"tvg-id="(no tvg-id)"tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/5c611e4f-aa8d-4e46-8242-ff76a6fec77a/b0f5393e-3fc1-427d-ba33-9429d7298a9b.png"tvg-chno="1"group-title="Hindi",Zee Anmol
 https://api.bongohub.pw/bongo.php?cc=zee-anmol
 #EXTINF:-1 tvg-name="Zee Bangla"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/88b130c8-0256-4247-97fe-11ec72132f15/e83a109a-b050-4ff9-917d-661be1c3d82b.png"tvg-chno="1"group-title="",Zee Bangla
 https://bongohub.pw/bioscope.php?cc=zee-bangla
@@ -387,23 +387,23 @@ https://bongohub.pw/bioscope.php?cc=zee-bangla
 https://api.bongohub.pw/bongo.php?cc=zee-bangla
 #EXTINF:-1 tvg-name="ZEE Bangla HD"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png"tvg-chno="1"group-title="",ZEE Bangla HD
 http://103.132.181.118:82/play/a00k
-#EXTINF:-1 tvg-name="Zee Bollywood"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/8fa76d62-7feb-42ee-b5b9-07dda654a062/f0412fb5-a3fb-4e06-a3f8-b44851521f76.png"tvg-chno="1"group-title="",Zee Bollywood
+#EXTINF:-1 tvg-name="Zee Bollywood"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/8fa76d62-7feb-42ee-b5b9-07dda654a062/f0412fb5-a3fb-4e06-a3f8-b44851521f76.png"tvg-chno="1"group-title="Hindi",Zee Bollywood
 https://bongohub.pw/bioscope.php?cc=zee-bollywood
-#EXTINF:-1 tvg-name="Zee Bollywood"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/8fa76d62-7feb-42ee-b5b9-07dda654a062/f0412fb5-a3fb-4e06-a3f8-b44851521f76.png"tvg-chno="1"group-title="",Zee Bollywood
+#EXTINF:-1 tvg-name="Zee Bollywood"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/8fa76d62-7feb-42ee-b5b9-07dda654a062/f0412fb5-a3fb-4e06-a3f8-b44851521f76.png"tvg-chno="1"group-title="Hindi",Zee Bollywood
 https://api.bongohub.pw/bongo.php?cc=zee-bollywood
-#EXTINF:-1 tvg-name="Zee Cinema HD"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/4ef30b76-32e8-48ab-81fc-5c7d641e5209/e7b4ef73-f718-4efe-931c-58f7f5cc87a3.png"tvg-chno="1"group-title="",Zee Cinema HD
+#EXTINF:-1 tvg-name="Zee Cinema HD"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/4ef30b76-32e8-48ab-81fc-5c7d641e5209/e7b4ef73-f718-4efe-931c-58f7f5cc87a3.png"tvg-chno="1"group-title="Hindi",Zee Cinema HD
 https://bongohub.pw/bioscope.php?cc=zee-cinema-hd
-#EXTINF:-1 tvg-name="Zee Cinema HD"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/4ef30b76-32e8-48ab-81fc-5c7d641e5209/e7b4ef73-f718-4efe-931c-58f7f5cc87a3.png"tvg-chno="1"group-title="",Zee Cinema HD
+#EXTINF:-1 tvg-name="Zee Cinema HD"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/4ef30b76-32e8-48ab-81fc-5c7d641e5209/e7b4ef73-f718-4efe-931c-58f7f5cc87a3.png"tvg-chno="1"group-title="Hindi",Zee Cinema HD
 https://api.bongohub.pw/bongo.php?cc=zee-cinema-hd
 #EXTINF:-1 tvg-name="Zee Cinema HD"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png"tvg-chno="1"group-title="",Zee Cinema HD
 http://103.132.181.118:82/play/a00i
-#EXTINF:-1 tvg-name="Zee TV HD"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e76ee8d5-571a-4bd1-b72b-e09a3e986160/fae71bed-37a1-4b94-8382-d103f429b6b7.png"tvg-chno="1"group-title="",Zee TV HD
+#EXTINF:-1 tvg-name="Zee TV HD"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e76ee8d5-571a-4bd1-b72b-e09a3e986160/fae71bed-37a1-4b94-8382-d103f429b6b7.png"tvg-chno="1"group-title="Hindi",Zee TV HD
 https://bongohub.pw/bioscope.php?cc=zee-tv-hd
-#EXTINF:-1 tvg-name="Zee TV HD"tvg-id="(no tvg-id)"tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/7ff515b0-8ac5-4fe4-853b-ebbc5cc5f947/430ba6a7-1018-47d5-a6eb-b1335e6aa6bd.png"tvg-chno="1"group-title="",Zee TV HD
+#EXTINF:-1 tvg-name="Zee TV HD"tvg-id="(no tvg-id)"tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/7ff515b0-8ac5-4fe4-853b-ebbc5cc5f947/430ba6a7-1018-47d5-a6eb-b1335e6aa6bd.png"tvg-chno="1"group-title="Hindi",Zee TV HD
 https://api.bongohub.pw/bongo.php?cc=zee-tv-hd
 #EXTINF:-1 tvg-name="Zee TV HD"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/CLDbmYcD/KY6i6Adw.png"tvg-chno="1"group-title="",Zee TV HD
 http://103.132.181.118:82/play/a00f
-#EXTINF:-1 tvg-name="Zing"tvg-id="(no tvg-id)"tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e8ffd2a5-80fe-480b-833d-173da7830887/3b6e8661-1f9b-4e4e-9189-e4d7e77d033e.png"tvg-chno="1"group-title="Others",Zing
+#EXTINF:-1 tvg-name="Zing"tvg-id="(no tvg-id)"tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e8ffd2a5-80fe-480b-833d-173da7830887/3b6e8661-1f9b-4e4e-9189-e4d7e77d033e.png"tvg-chno="1"group-title="Hindi",Zing
 https://api.bongohub.pw/bongo.php?cc=zing
 
 
