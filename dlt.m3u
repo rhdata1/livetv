@@ -78,7 +78,7 @@ https://tvs1.aynaott.com/channel24/index.m3u8?hdnts=st=1707642066~exp=1707685266
 #EXTINF:-1 tvg-name="Channel I"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5044b33-4092-427d-9c55-2c8d149521ac/ba9b4024-e67a-4ca6-9030-5a2d08475e52.png"tvg-chno="1"group-title="",Channel I
 https://bongohub.pw/bioscope.php?cc=channel-i
 #EXTINF:-1 tvg-name="Channel I"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5044b33-4092-427d-9c55-2c8d149521ac/ba9b4024-e67a-4ca6-9030-5a2d08475e52.png"tvg-chno="1"group-title="",Channel I
-https://tvs2.aynaott.com/channeli/index.m3u8?hdnts=st=1707642066~exp=1707685266~acl=/channeli/*~data=103.90.200.200-PHONE~hmac=9319c792140ccdd28b5200f53e4b22bbc5d4a2cc94ae1c5bd9af8e396d879ab2
+http://pgplex.net:8080/ChannelI/index.m3u8
 #EXTINF:-1 tvg-name="Gaan Bangla"tvg-id="(no tvg-id)"tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7927c5b9-8dfd-4cbf-b9d6-bbd3e90a4eb1_180x180_3c294836-ce5c-46e2-b2e1-c9b4b9783997.png"tvg-chno="1"group-title="",Gaan Bangla
 https://tvs1.aynaott.com/gaanbangla/index.m3u8?hdnts=st=1707642066~exp=1707685266~acl=/gaanbangla/*~data=103.90.200.200-PHONE~hmac=e053b98f9aa4553a96c34c677795f69fa03db88ca4cab98577100ef479cdd64a
 #EXTINF:-1 tvg-name="Colors Asia"tvg-id="(no tvg-id)"tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/144db557-f209-49fe-ba87-92f554ab325c/3a09ab22-3aa4-44fa-a950-b2d9390163da.png"tvg-chno="1"group-title="",Colors Asia
@@ -136,7 +136,11 @@ https://tvs1.aynaott.com/bbcnews/index.m3u8?hdnts=st=1707642066~exp=1707685266~a
 #EXTINF:-1 tvg-name="Ekattor TV"tvg-id="(no tvg-id)"tvg-logo="https://cdn.ekattor.net/contents/themes/public/style/images/logo.png"tvg-chno="1"group-title="",Ekattor TV
 https://bongohub.pw/bioscope.php?cc=ekattur-tv
 #EXTINF:-1 tvg-name="Ekattor TV"tvg-id="(no tvg-id)"tvg-logo="https://cdn.ekattor.net/contents/themes/public/style/images/logo.png"tvg-chno="1"group-title="",Ekattor TV
-https://tvs1.aynaott.com/ekattorbdtv/index.m3u8?hdnts=st=1707642066~exp=1707685266~acl=/ekattorbdtv/*~data=103.90.200.200-PHONE~hmac=cdd8d0f8bd89eceee997b5194a8a0acb06f51f0ad9f7b8abec3b514095c0da4a
+http://pgplex.net:8080/EkattorTV/index.m3u8
+#EXTINF:-1 tvg-name="Nagorik TV"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/ZnVQgytZ/Nagorik-TV-Logo.jpg"tvg-chno="1"group-title="",Ekattor TV
+http://pgplex.net:8080/NagorikTV/index.m3u8
+
+
 #EXTINF:-1 tvg-name="Ekhon TV"tvg-id="(no tvg-id)"tvg-logo="https://ekhon.tv/logo.png"tvg-chno="1"group-title="",Ekhon TV
 https://bongohub.pw/bioscope.php?cc=ekhon-tv
 #EXTINF:-1 tvg-name="Ekhon TV"tvg-id="(no tvg-id)"tvg-logo="https://ekhon.tv/logo.png"tvg-chno="1"group-title="",Ekhon TV
@@ -148,7 +152,7 @@ https://tvs1.aynaott.com/etv/index.m3u8?hdnts=st=1707642066~exp=1707685266~acl=/
 #EXTINF:-1 tvg-name="Gazi TV"tvg-id="(no tvg-id)"tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png"tvg-chno="1"group-title="",Gazi TV
 http://103.109.56.116/live/skyfeed1006/index.m3u8
 #EXTINF:-1 tvg-name="Gazi TV"tvg-id="(no tvg-id)"tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png"tvg-chno="1"group-title="",Gazi TV
-https://tvs2.aynaott.com/gtv/index.m3u8?hdnts=st=1707642066~exp=1707685266~acl=/gtv/*~data=103.90.200.200-PHONE~hmac=e928704febdf463af120e2381e688bc92f6a57a42c601242a810520133c8cdf2
+http://pgplex.net:8080/GaziTVHD/index.m3u8
 #EXTINF:-1 tvg-name="Gazi TV HD"tvg-id="(no tvg-id)"tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2617e1b9-31fa-47ab-a3d7-9880e757a93c_180x180_gazi_tv.png"tvg-chno="1"group-title="",Gazi TV HD
 https://tvs1.aynaott.com/gtvhdforgame/index.m3u8?hdnts=st=1707642066~exp=1707685266~acl=/gtvhdforgame/*~data=103.90.200.200-PHONE~hmac=a4269fac4f196e45bae1d25eac08d46228c2c0391549c8a90f699b6d8555c33a
 #EXTINF:-1 tvg-name="Channel 9"tvg-id="(no tvg-id)"tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9904a2b8-33ea-4fb8-88de-9d6563252bf9_180x180_43989ac5-a3a3-48a4-b628-de8f0815a8fc.png"tvg-chno="1"group-title="",Channel 9
