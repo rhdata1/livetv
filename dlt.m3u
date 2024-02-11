@@ -18,7 +18,7 @@ https://bongohub.pw/bioscope.php?cc=sony-ten-5
 #EXTINF:-1 tvg-name="Sony Sports 5 HD"tvg-id="(no tvg-id)"tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png"tvg-chno="1"group-title="",Sony Sports 5 HD
 https://bongohub.pw/Sony.php?id=1000009275&e=.m3u8
 
-#EXTINF:-1 tvg-name="T Sports"tvg-id="(no tvg-id)"tvg-logo="https://www.tsports.com/images/tsportslogo.svg"tvg-chno="1"group-title="",T Sports
+#EXTINF:-1 tvg-name="T Sports"tvg-id="(no tvg-id)"tvg-logo="https://www.tsports.com/images/tsportslogo.svg-chno="1"group-title="",T Sports
 http://pgplex.net:8080/TSportsHD/index.m3u8
 
 
