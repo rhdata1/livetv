@@ -403,12 +403,11 @@ https://bongohub.pw/bioscope.php?cc=zee-tv-hd
 https://api.bongohub.pw/bongo.php?cc=zee-tv-hd
 #EXTINF:-1 tvg-name="Zee TV HD"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/CLDbmYcD/KY6i6Adw.png"tvg-chno="1"group-title="",Zee TV HD
 http://103.132.181.118:82/play/a00f
-#EXTINF:-1 tvg-name="Zing"tvg-id="(no tvg-id)"tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e8ffd2a5-80fe-480b-833d-173da7830887/3b6e8661-1f9b-4e4e-9189-e4d7e77d033e.png"tvg-chno="1"group-title="",Zing
+#EXTINF:-1 tvg-name="Zing"tvg-id="(no tvg-id)"tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e8ffd2a5-80fe-480b-833d-173da7830887/3b6e8661-1f9b-4e4e-9189-e4d7e77d033e.png"tvg-chno="1"group-title="Others",Zing
 https://api.bongohub.pw/bongo.php?cc=zing
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYsfjtx0/BPL-2024.jpg",BPL Live Gazi TV
-http://pgplex.net:8080/BPL2024/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtH5RXyk/K7b1Bbz.png",Gazi TV HD
 http://pgplex.net:8080/GaziTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg",T Sports HD
