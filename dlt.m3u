@@ -62,13 +62,13 @@ http://pgplex.net:8080/SKYNews/index.m3u8
 #EXTINF:-1  tvg-name="RT News" tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/R0HRYQvq/RT-News.png" tvg-chno="1" group-title="News",RT News
 http://pgplex.net:8080/RussiaToday/index.m3u8
 #EXTINF:-1  tvg-name="News 24 HD" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/c70be28f-95ff-4daa-b432-300795099919/f0a5fda1-19ab-438a-a391-702e70c52f17.png" tvg-chno="1" group-title="News",News 24 HD
-https://bongohub.pw/bioscope.php?cc=news-24-hd
+https://eamintalukdar.xyz/bioscope.php?id=news-24-hd
 #EXTINF:-1  tvg-name="NDTV 24x7" tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/yWCxXLwJ/43lszhG.png" tvg-chno="1" group-title="News",NDTV 24x7
 http://pgplex.net:8080/NDTV/index.m3u8
 #EXTINF:-1  tvg-name="DW" tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" tvg-chno="1" group-title="News",DW
-https://bongohub.pw/bioscope.php?cc=dw-live
+https://eamintalukdar.xyz/bioscope.php?id=dw-live
 #EXTINF:-1  tvg-name="DBC News" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/425f4cb8-edd6-482b-a49e-85528f60225d/eaf3e854-9d2d-4d0d-aa74-ff49c8b353de.png" tvg-chno="1" group-title="News",DBC News
-https://api.bongohub.pw/bongo.php?cc=dbc-news
+https://eamintalukdar.xyz/bioscope.php?id=dbc-news
 #EXTINF:-1  tvg-name="DBC News" tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/250px-DBC_News_Logo.svg.png" tvg-chno="1" group-title="News",DBC News
 https://bongohub.pw/bioscope.php?cc=dbc-news
 #EXTINF:-1  tvg-name="BBC News" tvg-id="(no tvg-id)" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a4e2e38d-6a60-409e-9419-40b9fd97e29a_180x180_bbcnews.jpeg" tvg-chno="1" group-title="News",BBC News
@@ -76,7 +76,7 @@ http://pgplex.net:8080/BBCNews/index.m3u8
 #EXTINF:-1  tvg-name="Al Jazeera" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/dab2d561-ef54-40dd-9650-43dee09b92d0/29f2064c-f8a5-41ac-8a82-b5d7135b99b1.png" tvg-chno="1" group-title="News",Al Jazeera
 http://pgplex.net:8080/Aljazeera/index.m3u8
 #EXTINF:-1  tvg-name="Al Jazeera" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/dab2d561-ef54-40dd-9650-43dee09b92d0/29f2064c-f8a5-41ac-8a82-b5d7135b99b1.png" tvg-chno="1" group-title="News",Al Jazeera
-https://bongohub.pw/bioscope.php?cc=al-jazeera-english-live
+https://eamintalukdar.xyz/bioscope.php?id=al-jazeera-english-live
 #EXTINF:-1  tvg-name="Discovery Kids" tvg-id="(no tvg-id)" tvg-logo="" tvg-chno="1" group-title="Kids",Discovery Kids
 https://uniflixbd.xyz/unuse/payplay/live.php?id=1fe9cf550c24&e=.m3u8
 #EXTINF:-1  tvg-name="Kids Creation TV" tvg-id="(no tvg-id)" tvg-logo="" tvg-chno="1" group-title="Kids",Kids Creation TV
@@ -86,9 +86,9 @@ https://uniflixbd.xyz/unuse/payplay/live.php?id=fd1444ce2617&e=.m3u8
 #EXTINF:-1  tvg-name="Cartoon Network" tvg-id="(no tvg-id)" tvg-logo="" tvg-chno="1" group-title="Kids",Cartoon Network
 https://uniflixbd.xyz/unuse/payplay/live.php?id=8be5ec5d5d7c&e=.m3u8
 #EXTINF:-1  tvg-name="Nickelodeon" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3a980e48-4495-407e-b422-ad7633bae4dd/ea443332-ed92-49c3-8221-c1c86b05f13f.png" tvg-chno="1" group-title="Kids",Nickelodeon
-https://bongohub.pw/bioscope.php?cc=nickelodeon
+https://eamintalukdar.xyz/bioscope.php?id=nickelodeon
 #EXTINF:-1  tvg-name="Nick Junior" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/565f8459-678d-4495-9aad-364bdc16dc41/01ed5f96-1802-4e11-9335-81eb30f72740.png" tvg-chno="1" group-title="Kids",Nick Junior
-https://bongohub.pw/bioscope.php?cc=nick-junior
+https://eamintalukdar.xyz/bioscope.php?id=nick-junior
 #EXTINF:-1  tvg-name="Nick Junior" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/565f8459-678d-4495-9aad-364bdc16dc41/01ed5f96-1802-4e11-9335-81eb30f72740.png" tvg-chno="1" group-title="Kids",Nick Junior
 https://bongohub.pw/bioscope.php?cc=nick-junior
 #EXTINF:-1  tvg-name="Nick Bangla" tvg-id="(no tvg-id)" tvg-logo="" tvg-chno="1" group-title="Kids",Nick Bangla
@@ -214,7 +214,7 @@ https://bongohub.pw/bioscope.php?cc=lotus-macau-live
 #EXTINF:-1  tvg-name="Hollywood HD" tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/vTCYBs6Q/hollywood-hd.png" tvg-chno="1" group-title="English",Hollywood HD
 http://pgplex.net:8080/HollywoodHD/index.m3u8
 #EXTINF:-1  tvg-name="History TV" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/c34fd2d6-9dce-4fed-b973-08c039bf018f/c1763c44-93da-40f8-88fa-e4608772066b.png" tvg-chno="1" group-title="English",History TV
-https://bongohub.pw/bioscope.php?cc=history-tv
+https://eamintalukdar.xyz/bioscope.php?id=history-tv
 #EXTINF:-1  tvg-name="Geo News" tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/br6wvZ27/geo-news-pakistan.jpg" tvg-chno="1" group-title="English",Geo News
 http://pgplex.net:8080/GeoNews/index.m3u8
 #EXTINF:-1  tvg-name="Geo Entertainment" tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/JnjWgGqN/Geo-Entertainment.jpg" tvg-chno="1" group-title="English",Geo Entertainment
@@ -228,7 +228,7 @@ http://pgplex.net:8080/CCTV1/index.m3u8
 #EXTINF:-1  tvg-name="Bloomberg TV" tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/sxJs6Htm/Bloomberg-TV.png" tvg-chno="1" group-title="English",Bloomberg TV
 http://pgplex.net:8080/BloombergTV/index.m3u8
 #EXTINF:-1  tvg-name="BBC Earth HD" tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/200px-BBC_Earth_2023.svg.png" tvg-chno="1" group-title="English",BBC Earth HD
-https://bongohub.pw/bioscope.php?cc=bbc-earth-hd-live
+https://eamintalukdar.xyz/bioscope.php?id=bbc-earth-hd-live
 #EXTINF:-1  tvg-name="ZEE Bangla HD" tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png" tvg-chno="1" group-title="Bangla",ZEE Bangla HD
 https://uniflixbd.xyz/unuse/payplay/live.php?id=a994bb5a55fc&e=.m3u8%20
 #EXTINF:-1  tvg-name="Zee Bangla Cinema" tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/kGtYZCb2/ZVro-V3u-400x400.jpg" tvg-chno="1" group-title="Bangla",Zee Bangla Cinema
@@ -246,17 +246,17 @@ https://uniflixbd.xyz/unuse/payplay/live.php?id=88e557a35fef&e=.m3u8
 #EXTINF:-1  tvg-name="Sangsad TV" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/20923e29-ea03-4d63-b31e-eb26e77465ae/340a2a0f-5bb1-430f-a316-6e4c2a9e7bda.png" tvg-chno="1" group-title="Bangla",Sangsad TV
 https://bongohub.pw/bioscope.php?cc=sangsad-tv
 #EXTINF:-1  tvg-name="SA TV" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/d40e8576-cc38-494c-bca6-b732fe9a95a5/bb73b3db-8be1-4ba5-b34c-2bf55d7a6a14.png" tvg-chno="1" group-title="Bangla",SA TV
-https://bongohub.pw/bioscope.php?cc=sa-tv
+https://eamintalukdar.xyz/bioscope.php?id=sa-tv
 #EXTINF:-1  tvg-name="RTV HD" tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/DfN3wzzs/yi5p51T.png" tvg-chno="1" group-title="Bangla",RTV HD
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1  tvg-name="RTV" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/76b4fc9d-cdcb-4693-8269-1350cdad57ae/d9023977-e8ed-401a-990c-7b08256097cc.png" tvg-chno="1" group-title="Bangla",RTV
-https://bongohub.pw/bioscope.php?cc=rtv
+https://eamintalukdar.xyz/bioscope.php?id=rtv
 #EXTINF:-1  tvg-name="Rajdhani TV" tvg-id="(no tvg-id)" tvg-logo="https://rajdhani.tv/storage/app/image/1665000837logo.png" tvg-chno="1" group-title="Bangla",Rajdhani TV
-https://bongohub.pw/bioscope.php?cc=channel-24
+https://eamintalukdar.xyz/bioscope.php?id=rajdhani-tv
 #EXTINF:-1  tvg-name="NTV" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/c464fb45-f8bf-49a5-be22-85699806536e/64eac2a6-19cd-4507-b246-2c8f10a991f9.png" tvg-chno="1" group-title="Bangla",NTV
-https://bongohub.pw/bioscope.php?cc=ntv
+https://eamintalukdar.xyz/bioscope.php?id=ntv
 #EXTINF:-1  tvg-name="Nexus Television HD" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a459d0db-8ef7-45d0-8e24-3422faceef4d/d301f2a8-e824-4ca4-8607-5a5c775b8d4f.png" tvg-chno="1" group-title="Bangla",Nexus Television HD
-https://api.bongohub.pw/bongo.php?cc=nexus-tv
+https://eamintalukdar.xyz/bioscope.php?id=nexus-television-hd
 #EXTINF:-1  tvg-name="Nexus Television HD" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a459d0db-8ef7-45d0-8e24-3422faceef4d/d301f2a8-e824-4ca4-8607-5a5c775b8d4f.png" tvg-chno="1" group-title="Bangla",Nexus Television HD
 https://bongohub.pw/bioscope.php?cc=nexus-television-hd
 #EXTINF:-1  tvg-name="Nandan TV" tvg-id="(no tvg-id)" tvg-logo="" tvg-chno="1" group-title="Bangla",Nandan TV
@@ -264,29 +264,29 @@ http://pgplex.net:8080/NandanTV/index.m3u8
 #EXTINF:-1  tvg-name="Nagorik TV" tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" tvg-chno="1" group-title="Bangla",Nagorik TV
 http://pgplex.net:8080/NagorikTV/index.m3u8
 #EXTINF:-1  tvg-name="My TV" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/7d1c5d3f-449d-4bf5-9a7e-ab8079ebecd4/11e79c92-ff02-4fcd-be6d-7f3023b157b8.png" tvg-chno="1" group-title="Bangla",My TV
-https://bongohub.pw/bioscope.php?cc=my-tv
-#EXTINF:-1  tvg-name="Mohonta TV" tvg-id="(no tvg-id)" tvg-logo="https://mohona.tv/wp-content/uploads/2023/10/Mohona-TV-Logo.png" tvg-chno="1" group-title="Bangla",Mohonta TV
-https://bongohub.pw/bioscope.php?cc=mohona-tv
+https://eamintalukdar.xyz/bioscope.php?id=my-tv
+#EXTINF:-1  tvg-name="Mohona TV" tvg-id="(no tvg-id)" tvg-logo="https://mohona.tv/wp-content/uploads/2023/10/Mohona-TV-Logo.png" tvg-chno="1" group-title="Bangla",Mohona TV
+https://eamintalukdar.xyz/bioscope.php?id=mohona-tv
 #EXTINF:-1  tvg-name="Maasranga HD" tvg-id="(no tvg-id)" tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" tvg-chno="1" group-title="Bangla",Maasranga HD
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="Jamuna TV" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/481332d4-1a8f-4d79-9928-f0f5f891d14c/9f8bfabe-ee88-4027-923e-77f7f3eeaec9.png" tvg-chno="1" group-title="Bangla",Jamuna TV
-http://pgplex.net:8080/JamunaTV/index.m3u8
+https://eamintalukdar.xyz/bioscope.php?id=jamuna-tv
 #EXTINF:-1  tvg-name="Jamuna TV" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/481332d4-1a8f-4d79-9928-f0f5f891d14c/9f8bfabe-ee88-4027-923e-77f7f3eeaec9.png" tvg-chno="1" group-title="Bangla",Jamuna TV
-https://bongohub.pw/bioscope.php?cc=jamuna-tv
+
 #EXTINF:-1  tvg-name="Independent TV" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/59bb2200-2c12-4ae9-9989-bd520a66013d/7734ec20-8f93-4fe7-9dbd-950ddd73067f.png" tvg-chno="1" group-title="Bangla",Independent TV
 http://pgplex.net:8080/IndependentTV/index.m3u8
 #EXTINF:-1  tvg-name="Independent TV" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/59bb2200-2c12-4ae9-9989-bd520a66013d/7734ec20-8f93-4fe7-9dbd-950ddd73067f.png" tvg-chno="1" group-title="Bangla",Independent TV
-https://bongohub.pw/bioscope.php?cc=independent-tv
+https://eamintalukdar.xyz/bioscope.php?id=independent-tv
 #EXTINF:-1  tvg-name="Global TV" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/56fa3129-679c-45e6-ab9c-ba3ee95b5853/dda03273-bec9-490e-8ad5-3e318221dbc8.png" tvg-chno="1" group-title="Bangla",Global TV
-https://bongohub.pw/bioscope.php?cc=global-tv
+https://eamintalukdar.xyz/bioscope.php?id=global-tv
 #EXTINF:-1  tvg-name="Gazi TV" tvg-id="(no tvg-id)" tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" tvg-chno="1" group-title="Bangla",Gazi TV
 http://pgplex.net:8080/GaziTVHD/index.m3u8
 #EXTINF:-1  tvg-name="Ekushey TV" tvg-id="(no tvg-id)" tvg-logo="https://www.ekushey-tv.com/media/common/EkusheyTVLogo.png" tvg-chno="1" group-title="Bangla",Ekushey TV
-https://bongohub.pw/bioscope.php?cc=ekushey-tv
+https://eamintalukdar.xyz/bioscope.php?id=ekushey-tv
 #EXTINF:-1  tvg-name="Ekhon TV" tvg-id="(no tvg-id)" tvg-logo="https://ekhon.tv/logo.png" tvg-chno="1" group-title="Bangla",Ekhon TV
-https://bongohub.pw/bioscope.php?cc=ekhon-tv
+https://eamintalukdar.xyz/bioscope.php?id=ekhon-tv
 #EXTINF:-1  tvg-name="Ekattor TV" tvg-id="(no tvg-id)" tvg-logo="https://cdn.ekattor.net/contents/themes/public/style/images/logo.png" tvg-chno="1" group-title="Bangla",Ekattor TV
-https://bongohub.pw/bioscope.php?cc=ekattur-tv
+https://eamintalukdar.xyz/bioscope.php?id=ekattur-tv
 #EXTINF:-1  tvg-name="Deepto TV" tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/RhjVCpnJ/tPZKfLr.png" tvg-chno="1" group-title="Bangla",Deepto TV
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:-1  tvg-name="Green TV" tvg-id="(no tvg-id)" tvg-logo="" tvg-chno="1" group-title="Bangla",Green TV
@@ -300,9 +300,9 @@ https://bongohub.pw/bioscope.php?cc=colors-bangla-cinema
 #EXTINF:-1  tvg-name="Colors Bangla" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/2d207502-d828-4c9e-a53d-5091b91470e0/561a542e-8ea9-4b34-ac4c-18b3dc19f2f3.png" tvg-chno="1" group-title="Bangla",Colors Bangla
 https://bongohub.pw/bioscope.php?cc=colors-bangla
 #EXTINF:-1  tvg-name="Channel I" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5044b33-4092-427d-9c55-2c8d149521ac/ba9b4024-e67a-4ca6-9030-5a2d08475e52.png" tvg-chno="1" group-title="Bangla",Channel I
-http://pgplex.net:8080/ChannelI/index.m3u8
+https://eamintalukdar.xyz/bioscope.php?id=channel-i
 #EXTINF:-1  tvg-name="Channel 24" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/457da297-6c4a-4879-96f5-34b6b2067c7a/6daf2b2c-44e4-40bb-8b39-1f596c98d249.png" tvg-chno="1" group-title="Bangla",Channel 24
-https://bongohub.pw/bioscope.php?cc=channel-24
+https://eamintalukdar.xyz/bioscope.php?id=channel-24
 #EXTINF:-1  tvg-name="https://uniflixbd.xyz/unuse/payplay/live.php?id=b8cc9e2596b2&e=.m3u8%20" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/4618531f-8ebb-44eb-9bae-92761450b3a7/62ce2f8c-8b4a-4956-ad33-f7b8be13636c.png" tvg-chno="1" group-title="Bangla",BTV World
 https://bongohub.pw/bioscope.php?cc=btv-world
 #EXTINF:-1  tvg-name="BTV HD" tvg-id="(no tvg-id)" tvg-logo="https://www.btvlive.gov.bd/_next/static/media/btv-logo.d937bde9.svg" tvg-chno="1" group-title="Bangla",BTV HD
@@ -314,10 +314,18 @@ https://eamintalukdar.xyz/bioscope.php?id=zee-bangla
 #EXTINF:-1  tvg-name="Zee Bangla Cinema" tvg-id="(no tvg-id)" tvg-logo="" tvg-chno="1" group-title="Bangla",Zee Bangla Cinema
 https://uniflixbd.xyz/unuse/payplay/live.php?id=3c1cc31a847f&e=.m3u8
 #EXTINF:-1  tvg-name="Bijoy TV" tvg-id="(no tvg-id)" tvg-logo="https://pcdn1.jagobd.com/images/m-uj7se61652461722203.jpg" tvg-chno="1" group-title="Bangla",Bijoy TV
-https://bongohub.pw/bioscope.php?cc=bijoy-tv
+https://eamintalukdar.xyz/bioscope.php?id=bijoy-tv
 #EXTINF:-1  tvg-name="Bangla Vision" tvg-id="(no tvg-id)" tvg-logo="https://www.bvnews24.com/media/common/newbvlogo.png" tvg-chno="1" group-title="Bangla",Bangla Vision
-https://bongohub.pw/bioscope.php?cc=bangla-vision
+https://eamintalukdar.xyz/bioscope.php?id=bangla-vision
 #EXTINF:-1  tvg-name="Asian TV" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/de0277e1-fcab-4a84-8d1a-9dcdbdac7d05/4382bbec-8d64-4d00-b24f-60273db28712.png" tvg-chno="1" group-title="Bangla",Asian TV
-https://bongohub.pw/bioscope.php?cc=asian-tv-hd
+https://eamintalukdar.xyz/bioscope.php?id=asian-tv-hd
+#EXTINF:-1  tvg-name="Boishakhi TV" tvg-id="(no tvg-id)" tvg-logo="" tvg-chno="1" group-title="Bangla",Boishakhi TV
+https://eamintalukdar.xyz/bioscope.php?id=boishakhi-tv
+#EXTINF:-1  tvg-name="ATN Bangla" tvg-id="(no tvg-id)" tvg-logo="" tvg-chno="1" group-title="Bangla",ATN Bangla
+https://eamintalukdar.xyz/bioscope.php?id=atn-bangla
+#EXTINF:-1  tvg-name="Bangla TV" tvg-id="(no tvg-id)" tvg-logo="" tvg-chno="1" group-title="Bangla",Bangla TV
+https://eamintalukdar.xyz/bioscope.php?id=bangla-tv
+#EXTINF:-1  tvg-name="BTV World" tvg-id="(no tvg-id)" tvg-logo="" tvg-chno="1" group-title="Bangla",BTV World
+https://eamintalukdar.xyz/bioscope.php?id=btv-world
 #EXTINF:-1  tvg-name="Ananda TV" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/f18423a6-1fa1-4d67-ade6-24b3a0bc5001/7e4cc4f0-6654-4e35-aa16-05e77eedb092.png" tvg-chno="1" group-title="Bangla",Ananda TV
-https://bongohub.pw/bioscope.php?cc=ananda-tv
+https://eamintalukdar.xyz/bioscope.php?id=ananda-tv
