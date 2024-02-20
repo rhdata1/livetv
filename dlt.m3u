@@ -36,7 +36,7 @@ http://pgplex.net:8080/StarSportsSelect1/index.m3u8
 #EXTINF:-1  tvg-name="Star Sports Select 2 HD" tvg-id="(no tvg-id)" tvg-logo="https://multireach.in/wp-content/uploads/2020/10/starsportsselect2.png" tvg-chno="1" group-title="Sports",Star Sports Select 2 HD
 http://pgplex.net:8080/StarSportsSelect2/index.m3u8
 #EXTINF:-1  tvg-name="T Sports" tvg-id="(no tvg-id)" tvg-logo="https://www.tsports.com/images/tsportslogo.svg" tvg-chno="1" group-title="Sports",T Sports
-http://pgplex.net:8080/BPL2024/index.m3u8
+http://103.142.80.22:8080/t-sports/video.m3u8
 #EXTINF:-1  tvg-name="T Sports" tvg-id="(no tvg-id)" tvg-logo="https://www.tsports.com/images/tsportslogo.svg-chno=" tvg-chno="1" group-title="Sports",T Sports
 http://pgplex.net:8080/TSportsHD/index.m3u8
 #EXTINF:-1  tvg-name="Ten Sports HD" tvg-id="(no tvg-id)" tvg-logo="" tvg-chno="1" group-title="Sports",Ten Sports HD
@@ -245,10 +245,14 @@ https://eamintalukdar.xyz/bioscope.php?id=bangla-vision
 https://eamintalukdar.xyz/bioscope.php?id=bijoy-tv
 #EXTINF:-1  tvg-name="Boishakhi TV" tvg-id="(no tvg-id)" tvg-logo="" tvg-chno="1" group-title="Bangla",Boishakhi TV
 https://eamintalukdar.xyz/bioscope.php?id=boishakhi-tv
+#EXTINF:-1  tvg-name="https://uniflixbd.xyz/unuse/payplay/live.php?id=b8cc9e2596b2&e=.m3u8%20" tvg-id="(no tvg-id)" tvg-logo="https://boishakhionline.com/static/public/frontend_source/assets/images/logo.png" tvg-chno="1" group-title="Bangla",Boishakhi TV
+https://bongohub.pw/bioscope.php?cc=boishakhi-tv
 #EXTINF:-1  tvg-name="BTV HD" tvg-id="(no tvg-id)" tvg-logo="https://www.btvlive.gov.bd/_next/static/media/btv-logo.d937bde9.svg" tvg-chno="1" group-title="Bangla",BTV HD
 https://uniflixbd.xyz/unuse/payplay/live.php?id=1f8dba1d7e05&e=.m3u8
 #EXTINF:-1  tvg-name="BTV World" tvg-id="(no tvg-id)" tvg-logo="" tvg-chno="1" group-title="Bangla",BTV World
 https://eamintalukdar.xyz/bioscope.php?id=btv-world
+#EXTINF:-1  tvg-name="https://uniflixbd.xyz/unuse/payplay/live.php?id=b8cc9e2596b2&e=.m3u8%20" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/4618531f-8ebb-44eb-9bae-92761450b3a7/62ce2f8c-8b4a-4956-ad33-f7b8be13636c.png" tvg-chno="1" group-title="Bangla",BTV World
+https://bongohub.pw/bioscope.php?cc=btv-world
 #EXTINF:-1  tvg-name="Channel 24" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/457da297-6c4a-4879-96f5-34b6b2067c7a/6daf2b2c-44e4-40bb-8b39-1f596c98d249.png" tvg-chno="1" group-title="Bangla",Channel 24
 https://eamintalukdar.xyz/bioscope.php?id=channel-24
 #EXTINF:-1  tvg-name="Channel I" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5044b33-4092-427d-9c55-2c8d149521ac/ba9b4024-e67a-4ca6-9030-5a2d08475e52.png" tvg-chno="1" group-title="Bangla",Channel I
@@ -275,18 +279,12 @@ http://pgplex.net:8080/GaziTVHD/index.m3u8
 https://eamintalukdar.xyz/bioscope.php?id=global-tv
 #EXTINF:-1  tvg-name="Green TV" tvg-id="(no tvg-id)" tvg-logo="" tvg-chno="1" group-title="Bangla",Green TV
 https://uniflixbd.xyz/unuse/payplay/live.php?id=5fc4e8637f74&e=.m3u8
-#EXTINF:-1  tvg-name="https://uniflixbd.xyz/unuse/payplay/live.php?id=b8cc9e2596b2&e=.m3u8%20" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/4618531f-8ebb-44eb-9bae-92761450b3a7/62ce2f8c-8b4a-4956-ad33-f7b8be13636c.png" tvg-chno="1" group-title="Bangla",BTV World
-https://bongohub.pw/bioscope.php?cc=btv-world
-#EXTINF:-1  tvg-name="https://uniflixbd.xyz/unuse/payplay/live.php?id=b8cc9e2596b2&e=.m3u8%20" tvg-id="(no tvg-id)" tvg-logo="https://boishakhionline.com/static/public/frontend_source/assets/images/logo.png" tvg-chno="1" group-title="Bangla",Boishakhi TV
-https://bongohub.pw/bioscope.php?cc=boishakhi-tv
 #EXTINF:-1  tvg-name="Independent TV" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/59bb2200-2c12-4ae9-9989-bd520a66013d/7734ec20-8f93-4fe7-9dbd-950ddd73067f.png" tvg-chno="1" group-title="Bangla",Independent TV
 http://pgplex.net:8080/IndependentTV/index.m3u8
 #EXTINF:-1  tvg-name="Independent TV" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/59bb2200-2c12-4ae9-9989-bd520a66013d/7734ec20-8f93-4fe7-9dbd-950ddd73067f.png" tvg-chno="1" group-title="Bangla",Independent TV
 https://eamintalukdar.xyz/bioscope.php?id=independent-tv
 #EXTINF:-1  tvg-name="Jamuna TV" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/481332d4-1a8f-4d79-9928-f0f5f891d14c/9f8bfabe-ee88-4027-923e-77f7f3eeaec9.png" tvg-chno="1" group-title="Bangla",Jamuna TV
 https://eamintalukdar.xyz/bioscope.php?id=jamuna-tv
-#EXTINF:-1  tvg-name="Jamuna TV" tvg-id="(no tvg-id)" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/481332d4-1a8f-4d79-9928-f0f5f891d14c/9f8bfabe-ee88-4027-923e-77f7f3eeaec9.png" tvg-chno="1" group-title="Bangla",Jamuna TV
-
 #EXTINF:-1  tvg-name="Maasranga HD" tvg-id="(no tvg-id)" tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" tvg-chno="1" group-title="Bangla",Maasranga HD
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="Mohona TV" tvg-id="(no tvg-id)" tvg-logo="https://mohona.tv/wp-content/uploads/2023/10/Mohona-TV-Logo.png" tvg-chno="1" group-title="Bangla",Mohona TV
