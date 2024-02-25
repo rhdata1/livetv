@@ -215,7 +215,7 @@ https://bongohub.pw/bioscope.php?cc=somoy-tv
 https://cdn-tv.co.in/myweb/watch.php?id=1000009255&e=.m3u8
 #EXTINF:-1  tvg-name="Sony Aath" tvg-id="(no tvg-id)" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5aff8a6a-d664-4292-b4e8-8319e42f77a6_180x180_sony-8.jpg" tvg-chno="1" group-title="Hindi",Sony Aath
 https://bongohub.pw/Sony.php?id=1000009255&e=.m3u8
-#EXTINF:-1  tvg-name="Sony Aath" tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/L6dv4SxY/A0-EWDDo-2.png" tvg-chno="1" group-title="Hindi",Sony Aath
+#EXTINF:-1  tvg-name="Sony Aath" tvg-id="(no tvg-id)" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5aff8a6a-d664-4292-b4e8-8319e42f77a6_180x180_sony-8.jpg" tvg-chno="1" group-title="Hindi",Sony Aath
 https://api.bongohub.pw/api/bio.php?ab=sony-aath-live
 #EXTINF:-1  tvg-name="Sony BBC" tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/150px-Sony_BBC_Earth.png" tvg-chno="1" group-title="Hindi",Sony BBC
 https://uniflixbd.xyz/unuse/payplay/live.php?id=e96cb72a3787&e=.m3u8
@@ -287,7 +287,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 https://tv.bongohub.pw/apix/bdix.php?id=1406&e=.m3u8
 #EXTINF:-1  tvg-name="Star Jalsha HD" tvg-id="(no tvg-id)" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/ab/Star_Jalsha_HD_logo_%282011%29.png" tvg-chno="1" group-title="Bangla",Star Jalsha HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
-#EXTINF:-1  tvg-name="Star Jalsha Movies HD" tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/rmHJ4szR/CjIopW5.jpg" tvg-chno="1" group-title="Bangla",Star Jalsha Movies HD
+#EXTINF:-1  tvg-name="Star Jalsha Movies HD" tvg-id="(no tvg-id)" tvg-logo="https://servicesmedia.in/wp-content/uploads/2023/01/Jalsha-Movies.webp" tvg-chno="1" group-title="Bangla",Star Jalsha Movies HD
 https://uniflixbd.xyz/unuse/payplay/live.php?id=23bff287b2d9&e=.m3u8
 #EXTINF:-1  tvg-name="Star Plus" tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" tvg-chno="1" group-title="Hindi",Star Plus
 https://uniflixbd.xyz/unuse/payplay/live.php?id=e767f10e635a&e=.m3u8
@@ -305,9 +305,9 @@ http://103.142.80.22:8080/star-sports-select-1/index.m3u8
 http://pgplex.net:8080/StarSportsSelect1/index.m3u8
 #EXTINF:-1  tvg-name="Star Sports Select 2 HD" tvg-id="(no tvg-id)" tvg-logo="https://multireach.in/wp-content/uploads/2020/10/starsportsselect2.png" tvg-chno="1" group-title="Sports",Star Sports Select 2 HD
 http://pgplex.net:8080/StarSportsSelect2/index.m3u8
-#EXTINF:-1  tvg-name="T Sports" tvg-id="(no tvg-id)" tvg-logo="https://www.tsports.com/images/tsportslogo.svg" tvg-chno="1" group-title="Sports",T Sports
+#EXTINF:-1  tvg-name="T Sports" tvg-id="(no tvg-id)" tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" tvg-chno="1" group-title="Sports",T Sports
 http://103.142.80.22:8080/t-sports/video.m3u8
-#EXTINF:-1  tvg-name="T Sports" tvg-id="(no tvg-id)" tvg-logo="https://www.tsports.com/images/tsportslogo.svg-chno=" tvg-chno="1" group-title="Sports",T Sports
+#EXTINF:-1  tvg-name="T Sports" tvg-id="(no tvg-id)" tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" tvg-chno="1" group-title="Sports",T Sports
 http://pgplex.net:8080/SomoyTv/index.m3u8
 #EXTINF:-1  tvg-name="Ten Sports HD" tvg-id="(no tvg-id)" tvg-logo="https://i.brecorder.com/wp-content/uploads/2019/07/ten-ooop.jpg" tvg-chno="1" group-title="Sports",Ten Sports HD
 http://176.119.29.52/live/00:1A:79:92:98:E5/SN_1697176356/301.m3u8%20
