@@ -305,9 +305,9 @@ http://103.142.80.22:8080/star-sports-select-1/index.m3u8
 http://pgplex.net:8080/StarSportsSelect1/index.m3u8
 #EXTINF:-1  tvg-name="Star Sports Select 2 HD" tvg-id="(no tvg-id)" tvg-logo="https://multireach.in/wp-content/uploads/2020/10/starsportsselect2.png" tvg-chno="1" group-title="Sports",Star Sports Select 2 HD
 http://pgplex.net:8080/StarSportsSelect2/index.m3u8
-#EXTINF:-1  tvg-name="T Sports" tvg-id="(no tvg-id)" tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" tvg-chno="1" group-title="Sports",T Sports
+#EXTINF:-1  tvg-name="T Sports" tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" tvg-chno="1" group-title="Sports",T Sports
 http://103.142.80.22:8080/t-sports/video.m3u8
-#EXTINF:-1  tvg-name="T Sports" tvg-id="(no tvg-id)" tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" tvg-chno="1" group-title="Sports",T Sports
+#EXTINF:-1  tvg-name="T Sports" tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" tvg-chno="1" group-title="Sports",T Sports
 http://pgplex.net:8080/SomoyTv/index.m3u8
 #EXTINF:-1  tvg-name="Ten Sports HD" tvg-id="(no tvg-id)" tvg-logo="https://i.brecorder.com/wp-content/uploads/2019/07/ten-ooop.jpg" tvg-chno="1" group-title="Sports",Ten Sports HD
 http://176.119.29.52/live/00:1A:79:92:98:E5/SN_1697176356/301.m3u8%20
