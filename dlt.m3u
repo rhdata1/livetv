@@ -3,3 +3,6 @@
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
