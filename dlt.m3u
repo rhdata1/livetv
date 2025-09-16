@@ -103,12 +103,13 @@ https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/stream_0.m3u8?uid=
 http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="",T Sports
+http://103.73.107.122:3255/TSportsHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="",T Sports
 http://103.89.248.22:8082/T-SPORTS/index.fmp4.m3u8?token=c57094284ccd7c39383fd4a26daaa97e43d3c171-75e76d26f60fd91de55a0c17914a1ea2-1758065926-1758055126
 
 #EXTINF:-1 tvg-logo=""group-title="",T Sports
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="",T Sports
 
 
 #EXTINF:-1 tvg-logo=""group-title="",Ten Sports
@@ -138,18 +139,18 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunk
 #EXTINF:-1 tvg-logo=""group-title="",Gazi TV
 http://103.89.248.30:8082/GAZI-TV/index.fmp4.m3u8?token=eb5e3b5045ee1742bb9648be57578d4208e0cadb-1847954c99180339b84b1e6d6e4df4ad-1758066700-1758055900
 
-#EXTINF:-1 tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-logo=""group-title="",
-
+#EXTINF:-1 tvg-logo=""group-title="",Channel I
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 tvg-logo=""group-title="",Maasranga TV
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",Star Jalsha HD
+https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",HBO HD
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium321%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1 tvg-logo=""group-title="",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",
 
 #EXTINF:-1 tvg-logo=""group-title="",
