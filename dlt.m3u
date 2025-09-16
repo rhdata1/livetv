@@ -135,7 +135,8 @@ http://app.hughag.store/api/6b9c461155/playlist.m3u8
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",Dubai Sports 3
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",
+#EXTINF:-1 tvg-logo=""group-title="",Gazi TV
+http://103.89.248.30:8082/GAZI-TV/index.fmp4.m3u8?token=eb5e3b5045ee1742bb9648be57578d4208e0cadb-1847954c99180339b84b1e6d6e4df4ad-1758066700-1758055900
 
 #EXTINF:-1 tvg-logo=""group-title="",
 
