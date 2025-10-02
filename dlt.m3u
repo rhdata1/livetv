@@ -222,22 +222,22 @@ http://103.175.242.10:8080/tsports1/index.m3u8
 http://103.175.242.10:8080/zeebangla/index.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-logo=""group-title="",
-
+#EXTINF:-1 tvg-logo=""group-title="",Discovery HD
+151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",Euro Sports HD
+151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",Euro Sports 2 HD
+151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",Star Movies
+http://51.15.7.9:3141/starmovies/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",Sony Sports 1
+http://51.15.7.9:3141/ten1/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",Sony Sports 2
+http://51.15.7.9:3141/ten2/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",Sony Sports 3
+http://51.15.7.9:3141/ten3/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",Sony Sports 5
+http://51.15.7.9:3141/ten5/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",
 
 #EXTINF:-1 tvg-logo=""group-title="",
